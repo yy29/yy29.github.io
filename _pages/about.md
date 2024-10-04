@@ -17,6 +17,10 @@ Research Articles
 ======
 To be added soon.
 
+Patents
+======
+To be added soon.
+
 For more info
 ======
 To be added soon
