@@ -45,10 +45,3 @@ Revisiting a kNN-based Image Classification System with High-capacity Storage
 Kengo Nakata, Youyang Ng, Daisuke Miyashita, Asuka Maki, Yu-Chieh Lin, Jun Deguchi  
 *European Conference on Computer Vision (ECCV), 2022, **Oral** ([pdf](https://arxiv.org/abs/2204.01186))*
 
-Research Articles
-======
-To be added soon.
-
-Patents
-======
-To be added soon.
