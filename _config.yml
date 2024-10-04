@@ -21,7 +21,7 @@ repository               : "yy29/yy29.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "yy_profile.png"
   name             : "Youyang Ng"
   pronouns         : # example: "she/her"  
   bio              : "Computer Vision and Natural Language Processing Researcher"
