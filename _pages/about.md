@@ -14,12 +14,16 @@ I am currently a researcher and team leader at the research lab of Kioxia Corpor
 Selected Works
 ======
 ### Revisiting Relevance Feedback for Image Retrieval
-<img align="left" width="200" src="../images/2024_feedback.png">
+
+<!---
+|| Revisiting Relevance Feedback for Image Retrieval |
+| :--- | :--- |
+| <img align="left" width="200" src="../images/2024_feedback.png"> | **Revisiting Relevance Feedback for CLIP-based Interactive Image Retrieval** <br> Ryoya Nara, Yu-Chieh Lin, Yuji Nozawa, Youyang Ng, Goh Itoh, Osamu Torii, Yusuke Matsui <br> *European Conference on Computer Vision (ECCV) Workshops, 2024 ([pdf](https://arxiv.org/abs/2404.16398))* |
+--->
 
 **Revisiting Relevance Feedback for CLIP-based Interactive Image Retrieval**  
 Ryoya Nara, Yu-Chieh Lin, Yuji Nozawa, Youyang Ng, Goh Itoh, Osamu Torii, Yusuke Matsui  
 *European Conference on Computer Vision (ECCV) Workshops, 2024 ([pdf](https://arxiv.org/abs/2404.16398))*
-<br /><br />
 
 ### Rethinking Sparse Image Retrieval
 **Rethinking Sparse Lexical Representations for Image Retrieval in the Age of Rising Multi-Modal Large Language Models**  
