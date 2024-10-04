@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "yy29"
   pronouns         : # example: "she/her"  
-  bio              : "CV and NLP Researcher"
+  bio              : "Computer Vision and Natural Language Processing Researcher"
   location         : "Yokohama"
-  employer         : 
+  employer         : Kioxia
   uri              : # URL
   email            : "none@example.org" 
 
