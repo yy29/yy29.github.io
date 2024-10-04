@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a researcher and team leader at the research lab of Kioxia Corporation, Japan. My main research areas are basic & applied research in Computer Vision, Machine Learning, Memory System and Natural Language Processing. I am particularly interested in the intersection of memory and intelligence. I have co-authored more than 30 research articles and patents. I have been serving as a reviewer at ACL Rolling Review, WACV, ACL, EMNLP and others. I am also a Senior Member of IEEE.
+I am currently a researcher and team leader at the research lab of Kioxia Corporation, Japan. My main research areas are basic & applied research in Computer Vision, Machine Learning, Memory System and Natural Language Processing. I am particularly interested in the intersection of memory and intelligence. I have co-authored more than 30 research articles and patents in my 14 years of R&D experiences. I have been serving as a reviewer at ACL Rolling Review, WACV, ACL, EMNLP and others. I am also a Senior Member of IEEE. I hold a B.Eng from Universiti Malaya, Malaysia. I speak English, Japanese, Chinese and Malay.
 
 [Google Scholar](https://scholar.google.com/citations?user=4BGLw_QAAAAJ) &nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/youyang-ng-55a10ab9/)
 
