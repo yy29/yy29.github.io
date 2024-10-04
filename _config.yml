@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "yy29/yy29.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "yy29"
+  name             : "Youyang Ng"
   pronouns         : # example: "she/her"  
   bio              : "Computer Vision and Natural Language Processing Researcher"
   location         : "Yokohama"
