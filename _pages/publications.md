@@ -16,15 +16,31 @@ Youyang Ng, Bo Wang, Takuji Ohashi, Osamu Yamane, Takeshi Fujiwara
 
 **Information processing apparatus and information processing method**  
 Youyang Ng, Bo Wang, Takuji Ohashi, Osamu Yamane, Takeshi Fujiwara  
-*US11715194B2, 2024 ([patent](https://patents.google.com/patent/US11715194B2/en))*
+*US11715194B2, 2023 ([patent](https://patents.google.com/patent/US11715194B2/en))*
 
 **Semiconductor image processing apparatus**  
 Atsushi Nakajima, Youyang Ng, Yuko Kono, Takuji Ohashi, Chihiro Ida  
-*US11715189B2, 2024 ([patent](https://patents.google.com/patent/US11715189B2/en))*
+*US11715189B2, 2023 ([patent](https://patents.google.com/patent/US11715189B2/en))*
 
 **Semiconductor image processing apparatus**  
 Atsushi Nakajima, Youyang Ng, Yuko Kono, Takuji Ohashi, Chihiro Ida  
-*JP7316867B2, 2024 ([patent](https://patents.google.com/patent/JP7316867B2/en))*
+*JP7316867B2, 2023 ([patent](https://patents.google.com/patent/JP7316867B2/en))*
+
+**Memory system**  
+Ryo Yamaki, Youyang Ng, Koji Horisaki, Kazuhisa Horiuchi, Gibeom Park  
+*US11342040B2, 2022 ([patent](https://patents.google.com/patent/US11342040B2/en))*
+
+**Memory system**  
+Ryo Yamaki, Gibeom Park, Youyang Ng, Koji Horisaki, Kazuhisa Horiuchi  
+*US11093173B2, 2021 ([patent](https://patents.google.com/patent/US11093173B2/en))*
+
+**Memory system and method**  
+Youyang Ng, Gibeom Park, Kazuhisa Horiuchi, Ryo Yamaki, Koji Horisaki  
+*US11086569B2, 2021 ([patent](https://patents.google.com/patent/US11086569B2/en))*
+
+**Memory system**  
+Koji Horisaki, Kazuhisa Horiuchi, Ryo Yamaki, Gibeom Park, Youyang Ng  
+*US10957400B1, 2021 ([patent](https://patents.google.com/patent/US10957400B1/en))*
 
 ---
 ## Research Articles
