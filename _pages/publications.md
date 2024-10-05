@@ -50,6 +50,30 @@ Yosuke Bando, Yujen Lai, Youyang Ng, Kenichi Maeda, Takeshi Sakoda, Takaomi Mura
 Yosuke Bando, Yujen Lai, Youyang Ng, Kenichi Maeda, Takeshi Sakoda, Takaomi Murakami, Yusuke Doi, Masahiro Ishiyama  
 *US10187818B2, 2019 ([patent](https://patents.google.com/patent/US10187818B2/en))*
 
+**Sheet processing apparatus**  
+Youyang Ng  
+*EP2919203B1, 2018 ([patent](https://patents.google.com/patent/EP2919203B1/en))*
+
+**Sheet Processing Apparatus**  
+Youyang Ng  
+*JP6296843B2, 2018 ([patent](https://patents.google.com/patent/JP6296843B2/en))*
+
+**Sheet Processing Apparatus and Sheet Processing Method**  
+Youyang Ng, Kazuhisa Yoshida  
+*JP6139324B2, 2017 ([patent](https://patents.google.com/patent/JP6139324B2/en))*
+
+**Sheet Processing Apparatus and Sheet Processing Method**  
+Youyang Ng, Kazuhisa Yoshida  
+*JP6113471B2, 2017 ([patent](https://patents.google.com/patent/JP6113471B2/en))*
+
+**Sheet Processing Apparatus**  
+Youyang Ng, Kazuhisa Yoshida  
+*JP6087774B2, 2017 ([patent](https://patents.google.com/patent/JP6087774B2/en))*
+
+**Sheet Processing Apparatus**  
+Youyang Ng  
+*US9359165B2, 2016 ([patent](https://patents.google.com/patent/US9359165B2/en))*
+
 ---
 ## Research Articles
 
