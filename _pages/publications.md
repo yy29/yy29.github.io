@@ -42,6 +42,14 @@ Youyang Ng, Gibeom Park, Kazuhisa Horiuchi, Ryo Yamaki, Koji Horisaki
 Koji Horisaki, Kazuhisa Horiuchi, Ryo Yamaki, Gibeom Park, Youyang Ng  
 *US10957400B1, 2021 ([patent](https://patents.google.com/patent/US10957400B1/en))*
 
+**Communication Apparatus and Communication Method**  
+Yosuke Bando, Yujen Lai, Youyang Ng, Kenichi Maeda, Takeshi Sakoda, Takaomi Murakami, Yusuke Doi, Masahiro Ishiyama  
+*CN106603615B, 2019 ([patent](https://patents.google.com/patent/CN106603615B/en))*
+
+**Communication Apparatus and Communication Method**  
+Yosuke Bando, Yujen Lai, Youyang Ng, Kenichi Maeda, Takeshi Sakoda, Takaomi Murakami, Yusuke Doi, Masahiro Ishiyama  
+*US10187818B2, 2019 ([patent](https://patents.google.com/patent/US10187818B2/en))*
+
 ---
 ## Research Articles
 
