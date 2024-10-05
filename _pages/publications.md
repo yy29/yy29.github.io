@@ -7,10 +7,11 @@ author_profile: true
 
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=4BGLw_QAAAAJ)
 
+---
 ## Patents
 
 
-
+---
 ## Research Articles
 
 **Revisiting Relevance Feedback for CLIP-based Interactive Image Retrieval**  
