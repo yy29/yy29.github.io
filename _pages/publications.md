@@ -14,16 +14,16 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 Youyang Ng, Bo Wang, Takuji Ohashi, Osamu Yamane, Takeshi Fujiwara  
 *JP7527902B2, 2024 ([patent](https://patents.google.com/patent/JP7527902B2/en))*
 
-**Information processing apparatus and information processing method**
+**Information processing apparatus and information processing method**  
 Youyang Ng, Bo Wang, Takuji Ohashi, Osamu Yamane, Takeshi Fujiwara  
 *US11715194B2, 2024 ([patent](https://patents.google.com/patent/US11715194B2/en))*
 
-**Semiconductor image processing apparatus**
-Atsushi Nakajima, Youyang Ng, Yuko Kono, Takuji Ohashi, Chihiro Ida
+**Semiconductor image processing apparatus**  
+Atsushi Nakajima, Youyang Ng, Yuko Kono, Takuji Ohashi, Chihiro Ida  
 *US11715189B2, 2024 ([patent](https://patents.google.com/patent/US11715189B2/en))*
 
-**Semiconductor image processing apparatus**
-Atsushi Nakajima, Youyang Ng, Yuko Kono, Takuji Ohashi, Chihiro Ida
+**Semiconductor image processing apparatus**  
+Atsushi Nakajima, Youyang Ng, Yuko Kono, Takuji Ohashi, Chihiro Ida  
 *JP7316867B2, 2024 ([patent](https://patents.google.com/patent/JP7316867B2/en))*
 
 ---
