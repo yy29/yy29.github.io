@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: # "Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -39,3 +39,7 @@ Yasuto Hoshi, Daisuke Miyashita, Yasuhiro Morioka, Youyang Ng, Osamu Torii, Jun 
 **Revisiting a kNN-based Image Classification System with High-capacity Storage**  
 Kengo Nakata, Youyang Ng, Daisuke Miyashita, Asuka Maki, Yu-Chieh Lin, Jun Deguchi  
 *European Conference on Computer Vision (ECCV), 2022, **Oral** ([paper](https://arxiv.org/abs/2204.01186), [press](https://www.kioxia.com/en-jp/about/news/2022/20221102-1.html), [blog](https://www.kioxia.com/en-jp/rd/technology/topics/topics-39.html))*
+
+**Real and simulator testbeds for content dissemination in high-density large-scale WANET**  
+Yu-Jen Lai, Youyang Ng, Takeshi Sakoda, Yosuke Bando, Arata Miyamoto, Masahiro Ishiyama, Ken-ichi Maeda, Yusuke Doi  
+*IEEE Annual Consumer Communications & Networking Conference (CCNC), 2017 ([paper](https://web.media.mit.edu/~bandy/testbed/CCNC17testbed.pdf))*
