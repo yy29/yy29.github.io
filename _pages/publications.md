@@ -85,6 +85,10 @@ Bo Wang, Youyang Ng, Yuchieh Lin, Kengo Nakata, Takeshi Fujiwara
 ---
 ## Research Articles
 
+**Improving Image Clustering with Artifacts Attenuation via Inference-Time Attention Engineering**  
+Kazumoto Nakamura, Yuji Nozawa, Yu-Chieh Lin, Kengo Nakata, Youyang Ng  
+*Asian Conference on Computer Vision (ACCV), 2024 ([paper](https://arxiv.org/abs/2410.04801))*
+
 **Revisiting Relevance Feedback for CLIP-based Interactive Image Retrieval**  
 Ryoya Nara, Yu-Chieh Lin, Yuji Nozawa, Youyang Ng, Goh Itoh, Osamu Torii, Yusuke Matsui  
 *European Conference on Computer Vision (ECCV) Workshops, 2024 ([paper](https://arxiv.org/abs/2404.16398))*
