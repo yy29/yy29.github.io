@@ -21,18 +21,15 @@ Kazumoto Nakamura, Yuji Nozawa, Yu-Chieh Lin, Kengo Nakata, Youyang Ng
 *Asian Conference on Computer Vision (ACCV), 2024 ([paper](https://arxiv.org/abs/2410.04801))*
 
 ### Revisiting Relevance Feedback for Image Retrieval
-
-<!---
-|| Revisiting Relevance Feedback for Image Retrieval |
-| :--- | :--- |
-| <img align="left" width="200" src="../images/2024_feedback.png"> | **Revisiting Relevance Feedback for CLIP-based Interactive Image Retrieval** <br> Ryoya Nara, Yu-Chieh Lin, Yuji Nozawa, Youyang Ng, Goh Itoh, Osamu Torii, Yusuke Matsui <br> *European Conference on Computer Vision (ECCV) Workshops, 2024 ([paper](https://arxiv.org/abs/2404.16398))* |
---->
+<img height="200" src="../images/2024_feedback.png">
 
 Revisiting Relevance Feedback for CLIP-based Interactive Image Retrieval  
 Ryoya Nara, Yu-Chieh Lin, Yuji Nozawa, Youyang Ng, Goh Itoh, Osamu Torii, Yusuke Matsui  
 *European Conference on Computer Vision (ECCV) Workshops, 2024 ([paper](https://arxiv.org/abs/2404.16398))*
 
 ### Rethinking Sparse Image Retrieval
+<img height="200" src="../images/2024_sparse.png">
+
 Rethinking Sparse Lexical Representations for Image Retrieval in the Age of Rising Multi-Modal Large Language Models  
 Kengo Nakata, Daisuke Miyashita, Youyang Ng, Yasuto Hoshi, Jun Deguchi  
 *European Conference on Computer Vision (ECCV) Workshops, 2024 ([paper](https://arxiv.org/abs/2408.16296))*
