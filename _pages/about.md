@@ -14,6 +14,8 @@ I'm Youyang. I am currently a researcher and team leader at the research lab of 
 Selected Works
 ======
 ### Inference-Time Attention Engineering (ITAE)
+<img height="200" src="../images/2024_itae.png">
+
 Improving Image Clustering with Artifacts Attenuation via Inference-Time Attention Engineering  
 Kazumoto Nakamura, Yuji Nozawa, Yu-Chieh Lin, Kengo Nakata, Youyang Ng  
 *Asian Conference on Computer Vision (ACCV), 2024 ([paper](https://arxiv.org/abs/2410.04801))*
