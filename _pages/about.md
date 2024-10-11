@@ -40,6 +40,8 @@ Yasuto Hoshi, Daisuke Miyashita, Youyang Ng, Kento Tatsuno, Yasuhiro Morioka, Os
 *Conference on Empirical Methods in Natural Language Processing (EMNLP) System Demonstrations, 2023 ([paper](https://arxiv.org/abs/2308.10633), [code](https://github.com/yhoshi3/RaLLe), [blog](https://www.kioxia.com/en-jp/rd/technology/topics/topics-58.html))*
 
 ### Retrieval-Centric Generation (RCG)
+<img height="200" src="../images/2023_simplyretrieve.png">
+
 SimplyRetrieve: A Private and Lightweight Retrieval-Centric Generative AI Tool  
 Youyang Ng, Daisuke Miyashita, Yasuto Hoshi, Yasuhiro Morioka, Osamu Torii, Tomoya Kodama, Jun Deguchi  
 *arXiv, 2023 ([paper](https://arxiv.org/abs/2308.03983), [code](https://github.com/RCGAI/SimplyRetrieve), [blog](https://www.kioxia.com/en-jp/rd/technology/topics/topics-58.html))*
