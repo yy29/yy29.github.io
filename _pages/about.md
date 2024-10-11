@@ -47,6 +47,8 @@ Youyang Ng, Daisuke Miyashita, Yasuto Hoshi, Yasuhiro Morioka, Osamu Torii, Tomo
 *arXiv, 2023 ([paper](https://arxiv.org/abs/2308.03983), [code](https://github.com/RCGAI/SimplyRetrieve), [blog](https://www.kioxia.com/en-jp/rd/technology/topics/topics-58.html))*
 
 ### Revisiting kNN for Image Classification
+<img style="height: 300px" src="../images/2022_knn.png">
+
 Revisiting a kNN-based Image Classification System with High-capacity Storage  
 Kengo Nakata, Youyang Ng, Daisuke Miyashita, Asuka Maki, Yu-Chieh Lin, Jun Deguchi  
 *European Conference on Computer Vision (ECCV), 2022, **Oral** ([paper](https://arxiv.org/abs/2204.01186), [press](https://www.kioxia.com/en-jp/about/news/2022/20221102-1.html), [blog](https://www.kioxia.com/en-jp/rd/technology/topics/topics-39.html))*
