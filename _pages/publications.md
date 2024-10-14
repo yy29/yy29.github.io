@@ -120,3 +120,34 @@ Kengo Nakata, Youyang Ng, Daisuke Miyashita, Asuka Maki, Yu-Chieh Lin, Jun Deguc
 **Real and simulator testbeds for content dissemination in high-density large-scale WANET**  
 Yu-Jen Lai, Youyang Ng, Takeshi Sakoda, Yosuke Bando, Arata Miyamoto, Masahiro Ishiyama, Ken-ichi Maeda, Yusuke Doi  
 *IEEE Annual Consumer Communications & Networking Conference (CCNC), 2017 ([paper](https://web.media.mit.edu/~bandy/testbed/CCNC17testbed.pdf))*
+
+---
+## Domestic Conferences
+
+**CLIPと適合性フィードバックによる対話的検索システム**  
+Ryoya Nara, Yu-Chieh Lin, Yuji Nozawa, Youyang Ng, Goh Itoh, Osamu Torii, Yusuke Matsui  
+*Meeting on Image Recognition and Understanding (MIRU), 2024*
+
+**流体シミュレーションに対する高精度画像分類手法の提案**  
+Yumi Mori, Miyuki Kouda, Tomohiko Sugita, Youyang Ng  
+*人工知能学会全国大会論文集 (JSAI), 2024 ([paper](https://www.jstage.jst.go.jp/article/pjsai/JSAI2024/0/JSAI2024_2K1GS1004/_article/-char/ja/))*
+
+**Visual Question Answering via Cross-Modal Retrieval-Augmented Generation of Large Language Model**  
+Liyang Zhang, Youyang Ng  
+*Proceedings of the Annual Conference of JSAI (JSAI), 2024 ([paper](https://www.jstage.jst.go.jp/article/pjsai/JSAI2024/0/JSAI2024_2O1GS301/_article/-char/en))*
+
+**RaLLe: A Framework for Developing and Evaluating Retrieval-Augmented Large Language Models**  
+Yasuto Hoshi, Daisuke Miyashita, Youyang Ng, Kento Tatsuno, Yasuhiro Morioka, Osamu Torii, Jun Deguchi  
+*言語処理学会第30回年次大会 (NLP), 2024 ([paper](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P5-4.pdf))*
+
+**A Study on the Effect of Unknown Classes in Domain Adaptation for Image Classification**  
+Daichi Nishihara, Yoshihiro Midoh, Youyang Ng, Osamu Yamane, Maasa Takahashi, Goh Ito, Jun Shiomi, Noriyuki Miura  
+*The 43rd Annual NANO Testing Symposium (NANOTS), 2023*
+
+**周期表タスクにおける言語モデルの創発的能力と言語モデルが持つ記憶について**  
+Yasuto Hoshi, Daisuke Miyashita, Yasuhiro Morioka, Youyang Ng, Osamu Torii, Jun Deguchi  
+*言語処理学会第29回年次大会 (NLP), 2023 ([paper](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/H3-3.pdf))*
+
+**Domain Adaptation for Image Classification with Different Physical Noise Characteristics**  
+Daichi Nishihara, Yoshihiro Midoh, Youyang Ng, Osamu Yamane, Goh Ito, Takeshi Fujiwara, Jun Shiomi, Noriyuki Miura  
+*The 42nd Annual NANO Testing Symposium (NANOTS), 2022*
