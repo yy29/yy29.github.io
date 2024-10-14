@@ -151,3 +151,10 @@ Yasuto Hoshi, Daisuke Miyashita, Yasuhiro Morioka, Youyang Ng, Osamu Torii, Jun 
 **Domain Adaptation for Image Classification with Different Physical Noise Characteristics**  
 Daichi Nishihara, Yoshihiro Midoh, Youyang Ng, Osamu Yamane, Goh Ito, Takeshi Fujiwara, Jun Shiomi, Noriyuki Miura  
 *The 42nd Annual NANO Testing Symposium (NANOTS), 2022*
+
+---
+## Thesis
+
+**Audio Visual Recognition System for Intelligent Machine**  
+Youyang Ng  
+*Department of Electrical Engineering, Faculty of Engineering, Universiti Malaya (UM), 2010*
