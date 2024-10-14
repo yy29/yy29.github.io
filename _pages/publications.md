@@ -14,31 +14,31 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 Youyang Ng, Bo Wang, Takuji Ohashi, Osamu Yamane, Takeshi Fujiwara  
 *JP7527902B2, 2024 ([patent](https://patents.google.com/patent/JP7527902B2/en))*
 
-**Information processing apparatus and information processing method**  
+**Information Processing Apparatus and Information Processing Method**  
 Youyang Ng, Bo Wang, Takuji Ohashi, Osamu Yamane, Takeshi Fujiwara  
 *US11715194B2, 2023 ([patent](https://patents.google.com/patent/US11715194B2/en))*
 
-**Semiconductor image processing apparatus**  
+**Semiconductor Image Processing Apparatus**  
 Atsushi Nakajima, Youyang Ng, Yuko Kono, Takuji Ohashi, Chihiro Ida  
 *US11715189B2, 2023 ([patent](https://patents.google.com/patent/US11715189B2/en))*
 
-**Semiconductor image processing apparatus**  
+**Semiconductor Image Processing Apparatus**  
 Atsushi Nakajima, Youyang Ng, Yuko Kono, Takuji Ohashi, Chihiro Ida  
 *JP7316867B2, 2023 ([patent](https://patents.google.com/patent/JP7316867B2/en))*
 
-**Memory system**  
+**Memory System**  
 Ryo Yamaki, Youyang Ng, Koji Horisaki, Kazuhisa Horiuchi, Gibeom Park  
 *US11342040B2, 2022 ([patent](https://patents.google.com/patent/US11342040B2/en))*
 
-**Memory system**  
+**Memory System**  
 Ryo Yamaki, Gibeom Park, Youyang Ng, Koji Horisaki, Kazuhisa Horiuchi  
 *US11093173B2, 2021 ([patent](https://patents.google.com/patent/US11093173B2/en))*
 
-**Memory system and method**  
+**Memory System and Method**  
 Youyang Ng, Gibeom Park, Kazuhisa Horiuchi, Ryo Yamaki, Koji Horisaki  
 *US11086569B2, 2021 ([patent](https://patents.google.com/patent/US11086569B2/en))*
 
-**Memory system**  
+**Memory System**  
 Koji Horisaki, Kazuhisa Horiuchi, Ryo Yamaki, Gibeom Park, Youyang Ng  
 *US10957400B1, 2021 ([patent](https://patents.google.com/patent/US10957400B1/en))*
 
@@ -50,7 +50,7 @@ Yosuke Bando, Yujen Lai, Youyang Ng, Kenichi Maeda, Takeshi Sakoda, Takaomi Mura
 Yosuke Bando, Yujen Lai, Youyang Ng, Kenichi Maeda, Takeshi Sakoda, Takaomi Murakami, Yusuke Doi, Masahiro Ishiyama  
 *US10187818B2, 2019 ([patent](https://patents.google.com/patent/US10187818B2/en))*
 
-**Sheet processing apparatus**  
+**Sheet Processing Apparatus**  
 Youyang Ng  
 *EP2919203B1, 2018 ([patent](https://patents.google.com/patent/EP2919203B1/en))*
 
@@ -117,7 +117,7 @@ Yasuto Hoshi, Daisuke Miyashita, Yasuhiro Morioka, Youyang Ng, Osamu Torii, Jun 
 Kengo Nakata, Youyang Ng, Daisuke Miyashita, Asuka Maki, Yu-Chieh Lin, Jun Deguchi  
 *European Conference on Computer Vision (ECCV), 2022, **Oral** ([paper](https://arxiv.org/abs/2204.01186), [press](https://www.kioxia.com/en-jp/about/news/2022/20221102-1.html), [blog](https://www.kioxia.com/en-jp/rd/technology/topics/topics-39.html))*
 
-**Real and simulator testbeds for content dissemination in high-density large-scale WANET**  
+**Real and Simulator Testbeds for Content Dissemination in High-Density Large-Scale WANET**  
 Yu-Jen Lai, Youyang Ng, Takeshi Sakoda, Yosuke Bando, Arata Miyamoto, Masahiro Ishiyama, Ken-ichi Maeda, Yusuke Doi  
 *IEEE Annual Consumer Communications & Networking Conference (CCNC), 2017 ([paper](https://web.media.mit.edu/~bandy/testbed/CCNC17testbed.pdf))*
 
