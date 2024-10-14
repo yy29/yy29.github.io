@@ -126,15 +126,15 @@ Yu-Jen Lai, Youyang Ng, Takeshi Sakoda, Yosuke Bando, Arata Miyamoto, Masahiro I
 
 **CLIPと適合性フィードバックによる対話的検索システム**  
 Ryoya Nara, Yu-Chieh Lin, Yuji Nozawa, Youyang Ng, Goh Itoh, Osamu Torii, Yusuke Matsui  
-*Meeting on Image Recognition and Understanding (MIRU), 2024*
+*27th Meeting on Image Recognition and Understanding (MIRU), 2024*
 
 **流体シミュレーションに対する高精度画像分類手法の提案**  
 Yumi Mori, Miyuki Kouda, Tomohiko Sugita, Youyang Ng  
-*人工知能学会全国大会論文集 (JSAI), 2024 ([paper](https://www.jstage.jst.go.jp/article/pjsai/JSAI2024/0/JSAI2024_2K1GS1004/_article/-char/ja/))*
+*第38回人工知能学会全国大会 (JSAI), 2024 ([paper](https://www.jstage.jst.go.jp/article/pjsai/JSAI2024/0/JSAI2024_2K1GS1004/_article/-char/ja/))*
 
 **Visual Question Answering via Cross-Modal Retrieval-Augmented Generation of Large Language Model**  
 Liyang Zhang, Youyang Ng  
-*Proceedings of the Annual Conference of JSAI (JSAI), 2024 ([paper](https://www.jstage.jst.go.jp/article/pjsai/JSAI2024/0/JSAI2024_2O1GS301/_article/-char/en))*
+*The 38th Annual Conference of the Japanese Society for Artificial Intelligence (JSAI), 2024 ([paper](https://www.jstage.jst.go.jp/article/pjsai/JSAI2024/0/JSAI2024_2O1GS301/_article/-char/en))*
 
 **RaLLe: A Framework for Developing and Evaluating Retrieval-Augmented Large Language Models**  
 Yasuto Hoshi, Daisuke Miyashita, Youyang Ng, Kento Tatsuno, Yasuhiro Morioka, Osamu Torii, Jun Deguchi  
