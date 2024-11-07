@@ -97,6 +97,10 @@ Ryoya Nara, Yu-Chieh Lin, Yuji Nozawa, Youyang Ng, Goh Itoh, Osamu Torii, Yusuke
 Kengo Nakata, Daisuke Miyashita, Youyang Ng, Yasuto Hoshi, Jun Deguchi  
 *European Conference on Computer Vision (ECCV) Workshops, 2024 ([paper](https://arxiv.org/abs/2408.16296))*
 
+**Optimal Design of Wet Etching Bath for 3D Flash Memories Using Multi-Objective Bayesian Optimization**  
+Miyuki Kouda, Yumi Mori, Tomohiko Sugita, Youyang Ng  
+*International Symposium on Semiconductor Manufacturing (ISSM), 2024*
+
 **Open Set Domain Adaptation for Image Classification With Multiple Unknown Labels Using Unsupervised Clustering in a Target Domain**  
 Daichi Nishihara, Yoshihiro Midoh, Youyang Ng, Osamu Yamane, Maasa Takahashi, Shuhei Iijima, Jun Shiomi, Goh Itoh, Noriyuki Miura  
 *Electronic Imaging, 2024 ([paper](https://library.imaging.org/ei/articles/36/15/COIMG-162))*
