@@ -132,7 +132,7 @@ Yu-Jen Lai, Youyang Ng, Takeshi Sakoda, Yosuke Bando, Arata Miyamoto, Masahiro I
 Ryoya Nara, Yu-Chieh Lin, Yuji Nozawa, Youyang Ng, Goh Itoh, Osamu Torii, Yusuke Matsui  
 *27th Meeting on Image Recognition and Understanding (MIRU), 2024*
 
-**流体シミュレーションに対する高精度画像分類手法の提案**  
+**Accurate Image Classification Method for Computational Fluid Dynamics Image**  
 Yumi Mori, Miyuki Kouda, Tomohiko Sugita, Youyang Ng  
 *第38回人工知能学会全国大会 (JSAI), 2024 ([paper](https://www.jstage.jst.go.jp/article/pjsai/JSAI2024/0/JSAI2024_2K1GS1004/_article/-char/ja/))*
 
