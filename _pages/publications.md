@@ -115,7 +115,7 @@ Youyang Ng, Daisuke Miyashita, Yasuto Hoshi, Yasuhiro Morioka, Osamu Torii, Tomo
 
 **Can a Frozen Pretrained Language Model be used for Zero-shot Neural Retrieval on Entity-centric Questions?**  
 Yasuto Hoshi, Daisuke Miyashita, Yasuhiro Morioka, Youyang Ng, Osamu Torii, Jun Deguchi  
-*AAAI-23 Workshops, 2023 ([paper](https://arxiv.org/abs/2303.05153))*
+*AAAI Conference on Artificial Intelligence (AAAI-23) Workshops, 2023 ([paper](https://arxiv.org/abs/2303.05153))*
 
 **Revisiting a kNN-based Image Classification System with High-capacity Storage**  
 Kengo Nakata, Youyang Ng, Daisuke Miyashita, Asuka Maki, Yu-Chieh Lin, Jun Deguchi  
