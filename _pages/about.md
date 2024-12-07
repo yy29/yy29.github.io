@@ -20,7 +20,7 @@ Selected Works
 
 Improving Image Clustering with Artifacts Attenuation via Inference-Time Attention Engineering  
 Kazumoto Nakamura, Yuji Nozawa, Yu-Chieh Lin, Kengo Nakata, Youyang Ng  
-*Asian Conference on Computer Vision (ACCV), 2024 ([paper](https://arxiv.org/abs/2410.04801))*
+*Asian Conference on Computer Vision (ACCV), 2024 ([paper](https://openaccess.thecvf.com/content/ACCV2024/html/Nakamura_Improving_Image_Clustering_with_Artifacts_Attenuation_via_Inference-Time_Attention_Engineering_ACCV_2024_paper.html))*
 
 ### Revisiting Relevance Feedback for Image Retrieval
 <img style="height: 230px" src="../images/2024_feedback.png">
