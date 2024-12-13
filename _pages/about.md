@@ -15,7 +15,7 @@ I have co-authored more than 30 patents and research articles including publicat
 
 Selected Works
 ======
-### Inference-Time Attention Engineering (ITAE)
+### Boosting ViT with Inference-Time Attention Engineering (ITAE)
 <img style="height: 230px" src="../images/2024_itae.png">
 
 Improving Image Clustering with Artifacts Attenuation via Inference-Time Attention Engineering  
