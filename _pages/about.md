@@ -50,7 +50,7 @@ SimplyRetrieve: A Private and Lightweight Retrieval-Centric Generative AI Tool
 Youyang Ng, Daisuke Miyashita, Yasuto Hoshi, Yasuhiro Morioka, Osamu Torii, Tomoya Kodama, Jun Deguchi  
 *arXiv, 2023 ([paper](https://arxiv.org/abs/2308.03983), [code](https://github.com/RCGAI/SimplyRetrieve), [blog](https://www.kioxia.com/en-jp/rd/technology/topics/topics-58.html))*
 
-### Revisiting kNN for Image Classification
+### Rethinking Image Classification with Explainable & Editable Knowledge
 <img style="height: 230px" src="../images/2022_knn.png">
 
 Revisiting a kNN-based Image Classification System with High-capacity Storage  
