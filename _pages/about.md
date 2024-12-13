@@ -22,14 +22,14 @@ Improving Image Clustering with Artifacts Attenuation via Inference-Time Attenti
 Kazumoto Nakamura, Yuji Nozawa, Yu-Chieh Lin, Kengo Nakata, Youyang Ng  
 *Asian Conference on Computer Vision (ACCV), 2024 ([paper](https://openaccess.thecvf.com/content/ACCV2024/html/Nakamura_Improving_Image_Clustering_with_Artifacts_Attenuation_via_Inference-Time_Attention_Engineering_ACCV_2024_paper.html))*
 
-### Revisiting Relevance Feedback for Image Retrieval
+### Revisiting Relevance Feedback with Vision Models for Image Retrieval
 <img style="height: 230px" src="../images/2024_feedback.png">
 
 Revisiting Relevance Feedback for CLIP-based Interactive Image Retrieval  
 Ryoya Nara, Yu-Chieh Lin, Yuji Nozawa, Youyang Ng, Goh Itoh, Osamu Torii, Yusuke Matsui  
 *European Conference on Computer Vision (ECCV) Workshops, 2024 ([paper](https://arxiv.org/abs/2404.16398))*
 
-### Rethinking Sparse Image Retrieval
+### Explainable Image Retrieval with Large Vision-Language Models
 <img style="height: 230px" src="../images/2024_sparse.png">
 
 Rethinking Sparse Lexical Representations for Image Retrieval in the Age of Rising Multi-Modal Large Language Models  
