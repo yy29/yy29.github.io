@@ -34,7 +34,7 @@ Ryoya Nara, Yu-Chieh Lin, Yuji Nozawa, Youyang Ng, Goh Itoh, Osamu Torii, Yusuke
 
 Rethinking Sparse Lexical Representations for Image Retrieval in the Age of Rising Multi-Modal Large Language Models  
 Kengo Nakata, Daisuke Miyashita, Youyang Ng, Yasuto Hoshi, Jun Deguchi  
-*European Conference on Computer Vision (ECCV) Workshops, 2024 ([paper](https://arxiv.org/abs/2408.16296))*
+*European Conference on Computer Vision (ECCV) Workshops, 2024 ([paper](https://arxiv.org/abs/2408.16296), [blog](https://www.kioxia.com/en-jp/rd/technology/topics/topics-76.html))*
 
 ### Flexible RAG Development Platform
 <img style="height: 230px" src="../images/2023_ralle.png">
