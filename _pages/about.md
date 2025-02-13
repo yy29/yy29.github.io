@@ -19,7 +19,7 @@ Selected Works
 <div class="paper-box-text" markdown="1">
   
 ### Boosting ViT with Inference-Time Attention Engineering (ITAE)
-**Improving Image Clustering with Artifacts Attenuation via Inference-Time Attention Engineering**  
+Improving Image Clustering with Artifacts Attenuation via Inference-Time Attention Engineering  
 Kazumoto Nakamura, Yuji Nozawa, Yu-Chieh Lin, Kengo Nakata, Youyang Ng  
 *Asian Conference on Computer Vision (ACCV), 2024 ([paper](https://openaccess.thecvf.com/content/ACCV2024/html/Nakamura_Improving_Image_Clustering_with_Artifacts_Attenuation_via_Inference-Time_Attention_Engineering_ACCV_2024_paper.html))*
 </div>
@@ -29,37 +29,49 @@ Kazumoto Nakamura, Yuji Nozawa, Yu-Chieh Lin, Kengo Nakata, Youyang Ng
 <div class="paper-box-text" markdown="1">
   
 ### Boosting Vision Models with Relevance Feedback for Image Retrieval
-**Revisiting Relevance Feedback for CLIP-based Interactive Image Retrieval**  
+Revisiting Relevance Feedback for CLIP-based Interactive Image Retrieval  
 Ryoya Nara, Yu-Chieh Lin, Yuji Nozawa, Youyang Ng, Goh Itoh, Osamu Torii, Yusuke Matsui  
 *European Conference on Computer Vision (ECCV) Workshops, 2024 ([paper](https://arxiv.org/abs/2404.16398))*
 </div>
 </div>
 
+<div class="paper-box"><div class="paper-box-image"><img src="../images/2024_sparse.png" alt="sym" width="100%"></div>
+<div class="paper-box-text" markdown="1">
+  
 ### Explainable Image Retrieval with Large Vision-Language Models
-<img style="height: 230px" src="../images/2024_sparse.png">
-
 Rethinking Sparse Lexical Representations for Image Retrieval in the Age of Rising Multi-Modal Large Language Models  
 Kengo Nakata, Daisuke Miyashita, Youyang Ng, Yasuto Hoshi, Jun Deguchi  
 *European Conference on Computer Vision (ECCV) Workshops, 2024 ([paper](https://arxiv.org/abs/2408.16296), [blog](https://www.kioxia.com/en-jp/rd/technology/topics/topics-76.html))*
+</div>
+</div>
 
+<div class="paper-box"><div class="paper-box-image"><img src="../images/2023_ralle.png" alt="sym" width="100%"></div>
+<div class="paper-box-text" markdown="1">
+  
 ### Flexible RAG Development Platform
-<img style="height: 230px" src="../images/2023_ralle.png">
-
 RaLLe: A Framework for Developing and Evaluating Retrieval-Augmented Large Language Models  
 Yasuto Hoshi, Daisuke Miyashita, Youyang Ng, Kento Tatsuno, Yasuhiro Morioka, Osamu Torii, Jun Deguchi  
 *Conference on Empirical Methods in Natural Language Processing (EMNLP) System Demonstrations, 2023 ([paper](https://arxiv.org/abs/2308.10633), [code](https://github.com/yhoshi3/RaLLe), [blog](https://www.kioxia.com/en-jp/rd/technology/topics/topics-58.html))*
+</div>
+</div>
 
+<div class="paper-box"><div class="paper-box-image"><img src="../images/2023_simplyretrieve.png" alt="sym" width="100%"></div>
+<div class="paper-box-text" markdown="1">
+  
 ### Retrieval-Centric Generation (RCG)
-<img style="height: 230px" src="../images/2023_simplyretrieve.png">
-
 SimplyRetrieve: A Private and Lightweight Retrieval-Centric Generative AI Tool  
 Youyang Ng, Daisuke Miyashita, Yasuto Hoshi, Yasuhiro Morioka, Osamu Torii, Tomoya Kodama, Jun Deguchi  
 *arXiv, 2023 ([paper](https://arxiv.org/abs/2308.03983), [code](https://github.com/RCGAI/SimplyRetrieve), [blog](https://www.kioxia.com/en-jp/rd/technology/topics/topics-58.html))*
+</div>
+</div>
 
+<div class="paper-box"><div class="paper-box-image"><img src="../images/2022_knn.png" alt="sym" width="100%"></div>
+<div class="paper-box-text" markdown="1">
+  
 ### Rethinking Image Classification with Explainable & Editable Knowledge
-<img style="height: 230px" src="../images/2022_knn.png">
-
 Revisiting a kNN-based Image Classification System with High-capacity Storage  
 Kengo Nakata, Youyang Ng, Daisuke Miyashita, Asuka Maki, Yu-Chieh Lin, Jun Deguchi  
 *European Conference on Computer Vision (ECCV), 2022, **Oral** ([paper](https://arxiv.org/abs/2204.01186), [press](https://www.kioxia.com/en-jp/about/news/2022/20221102-1.html), [blog](https://www.kioxia.com/en-jp/rd/technology/topics/topics-39.html))*
+</div>
+</div>
 
