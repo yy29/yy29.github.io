@@ -16,9 +16,8 @@ I have co-authored over 30 patents and research articles including publications 
 Selected Works
 ======
 ### Boosting ViT with Inference-Time Attention Engineering (ITAE)
-<div class='paper-box'><div class='paper-box-image'><div><img src='../images/2024_itae.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
+<div class="paper-box"><div class="paper-box-image"><img src="../images/2024_itae.png" alt="sym" width="50%"></div>
+<div class="paper-box-text" markdown="1">
 
 Improving Image Clustering with Artifacts Attenuation via Inference-Time Attention Engineering  
 Kazumoto Nakamura, Yuji Nozawa, Yu-Chieh Lin, Kengo Nakata, Youyang Ng  
