@@ -15,7 +15,7 @@ I have co-authored over 30 patents and research articles including publications 
 
 Selected Works
 ======
-### Boosting ViT with Inference-Time Attention Engineering (ITAE)
+## Boosting ViT with Inference-Time Attention Engineering (ITAE)
 <div class="paper-box"><div class="paper-box-image"><img src="../images/2024_itae.png" alt="sym" width="100%"></div>
 <div class="paper-box-text" markdown="1">
 
@@ -25,51 +25,51 @@ Kazumoto Nakamura, Yuji Nozawa, Yu-Chieh Lin, Kengo Nakata, Youyang Ng
 </div>
 </div>
 
+## Boosting Vision Models with Relevance Feedback for Image Retrieval
 <div class="paper-box"><div class="paper-box-image"><img src="../images/2024_feedback.png" alt="sym" width="100%"></div>
 <div class="paper-box-text" markdown="1">
-  
-### Boosting Vision Models with Relevance Feedback for Image Retrieval
-Revisiting Relevance Feedback for CLIP-based Interactive Image Retrieval  
+
+**Revisiting Relevance Feedback for CLIP-based Interactive Image Retrieval**  
 Ryoya Nara, Yu-Chieh Lin, Yuji Nozawa, Youyang Ng, Goh Itoh, Osamu Torii, Yusuke Matsui  
 *European Conference on Computer Vision (ECCV) Workshops, 2024 ([paper](https://arxiv.org/abs/2404.16398))*
 </div>
 </div>
 
+## Explainable Image Retrieval with Large Vision-Language Models
 <div class="paper-box"><div class="paper-box-image"><img src="../images/2024_sparse.png" alt="sym" width="100%"></div>
 <div class="paper-box-text" markdown="1">
-  
-### Explainable Image Retrieval with Large Vision-Language Models
-Rethinking Sparse Lexical Representations for Image Retrieval in the Age of Rising Multi-Modal Large Language Models  
+
+**Rethinking Sparse Lexical Representations for Image Retrieval in the Age of Rising Multi-Modal Large Language Models**  
 Kengo Nakata, Daisuke Miyashita, Youyang Ng, Yasuto Hoshi, Jun Deguchi  
 *European Conference on Computer Vision (ECCV) Workshops, 2024 ([paper](https://arxiv.org/abs/2408.16296), [blog](https://www.kioxia.com/en-jp/rd/technology/topics/topics-76.html))*
 </div>
 </div>
 
+## Flexible RAG Development Platform
 <div class="paper-box"><div class="paper-box-image"><img src="../images/2023_ralle.png" alt="sym" width="100%"></div>
 <div class="paper-box-text" markdown="1">
-  
-### Flexible RAG Development Platform
-RaLLe: A Framework for Developing and Evaluating Retrieval-Augmented Large Language Models  
+
+**RaLLe: A Framework for Developing and Evaluating Retrieval-Augmented Large Language Models**  
 Yasuto Hoshi, Daisuke Miyashita, Youyang Ng, Kento Tatsuno, Yasuhiro Morioka, Osamu Torii, Jun Deguchi  
 *Conference on Empirical Methods in Natural Language Processing (EMNLP) System Demonstrations, 2023 ([paper](https://arxiv.org/abs/2308.10633), [code](https://github.com/yhoshi3/RaLLe), [blog](https://www.kioxia.com/en-jp/rd/technology/topics/topics-58.html))*
 </div>
 </div>
 
+## Retrieval-Centric Generation (RCG)
 <div class="paper-box"><div class="paper-box-image"><img src="../images/2023_simplyretrieve.png" alt="sym" width="100%"></div>
 <div class="paper-box-text" markdown="1">
-  
-### Retrieval-Centric Generation (RCG)
-SimplyRetrieve: A Private and Lightweight Retrieval-Centric Generative AI Tool  
+
+**SimplyRetrieve: A Private and Lightweight Retrieval-Centric Generative AI Tool**  
 Youyang Ng, Daisuke Miyashita, Yasuto Hoshi, Yasuhiro Morioka, Osamu Torii, Tomoya Kodama, Jun Deguchi  
 *arXiv, 2023 ([paper](https://arxiv.org/abs/2308.03983), [code](https://github.com/RCGAI/SimplyRetrieve), [blog](https://www.kioxia.com/en-jp/rd/technology/topics/topics-58.html))*
 </div>
 </div>
 
+## Rethinking Image Classification with Explainable & Editable Knowledge
 <div class="paper-box"><div class="paper-box-image"><img src="../images/2022_knn.png" alt="sym" width="100%"></div>
 <div class="paper-box-text" markdown="1">
-  
-### Rethinking Image Classification with Explainable & Editable Knowledge
-Revisiting a kNN-based Image Classification System with High-capacity Storage  
+
+**Revisiting a kNN-based Image Classification System with High-capacity Storage**  
 Kengo Nakata, Youyang Ng, Daisuke Miyashita, Asuka Maki, Yu-Chieh Lin, Jun Deguchi  
 *European Conference on Computer Vision (ECCV), 2022, **Oral** ([paper](https://arxiv.org/abs/2204.01186), [press](https://www.kioxia.com/en-jp/about/news/2022/20221102-1.html), [blog](https://www.kioxia.com/en-jp/rd/technology/topics/topics-39.html))*
 </div>
