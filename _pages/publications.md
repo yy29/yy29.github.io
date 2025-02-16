@@ -76,11 +76,11 @@ Youyang Ng
 
 **Semiconductor Image Processing Apparatus and Semiconductor Image Processing Method**  
 Shuhei Iijima, Osamu Yamane, Youyang Ng, Yuchieh Lin, Takuji Ohashi, Takeshi Fujiwara  
-*US20240311997A1, 2024, patent pending ([patent](https://patents.google.com/patent/US20240311997A1/en))*
+*US18/589658, 2024, patent pending ([patent](https://patents.google.com/patent/US20240311997A1/en))*
 
 **Image Processing Apparatus and Image Processing Method**  
 Bo Wang, Youyang Ng, Yuchieh Lin, Kengo Nakata, Takeshi Fujiwara  
-*US20230290125A1, 2022, patent pending ([patent](https://patents.google.com/patent/US20230290125A1/en))*
+*US17/942815, 2022, patent pending ([patent](https://patents.google.com/patent/US20230290125A1/en))*
 
 ---
 ## Research Articles
