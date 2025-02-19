@@ -15,7 +15,7 @@ I have co-authored over 30 patents and research articles including publications 
 
 Selected Works
 ======
-## Boosting ViT with Inference-Time Attention Engineering (ITAE)
+## Boosting Pretrained Vision Foundation Models
 <div class="paper-box"><div class="paper-box-image"><img src="../images/2024_itae.png" alt="sym" width="100%"></div>
 <div class="paper-box-text" markdown="1">
 
@@ -25,7 +25,6 @@ Kazumoto Nakamura, Yuji Nozawa, Yu-Chieh Lin, Kengo Nakata, Youyang Ng
 </div>
 </div>
 
-## Boosting Vision Models with Relevance Feedback for Image Retrieval
 <div class="paper-box"><div class="paper-box-image"><img src="../images/2024_feedback.png" alt="sym" width="100%"></div>
 <div class="paper-box-text" markdown="1">
 
