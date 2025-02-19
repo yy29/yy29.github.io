@@ -130,7 +130,7 @@ Yu-Jen Lai, Youyang Ng, Takeshi Sakoda, Yosuke Bando, Arata Miyamoto, Masahiro I
 
 1. **CLIPと適合性フィードバックによる対話的検索システム**  
 Ryoya Nara, Yu-Chieh Lin, Yuji Nozawa, Youyang Ng, Goh Itoh, Osamu Torii, Yusuke Matsui  
-*27th Meeting on Image Recognition and Understanding (MIRU), 2024*
+*27th Meeting on Image Recognition and Understanding (MIRU), 2024 ([blog](https://mti-lab.github.io/blog/2024/08/15/miru2024.html))*
 
 1. **Accurate Image Classification Method for Computational Fluid Dynamics Image**  
 Yumi Mori, Miyuki Kouda, Tomohiko Sugita, Youyang Ng  
