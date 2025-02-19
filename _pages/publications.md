@@ -161,4 +161,4 @@ Daichi Nishihara, Yoshihiro Midoh, Youyang Ng, Osamu Yamane, Goh Ito, Takeshi Fu
 
 1. **Audio Visual Recognition System for Intelligent Machine**  
 Youyang Ng  
-*Department of Electrical Engineering, Faculty of Engineering, Universiti Malaya (UM), 2010*
+*Department of Electrical Engineering, Faculty of Engineering, Universiti Malaya (UM), 2010 ([bibliography](https://books.google.co.jp/books?id=KLJKnQAACAAJ))*
