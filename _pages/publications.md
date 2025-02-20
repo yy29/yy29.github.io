@@ -154,7 +154,7 @@ Yasuto Hoshi, Daisuke Miyashita, Yasuhiro Morioka, Youyang Ng, Osamu Torii, Jun 
 
 1. **Domain Adaptation for Image Classification with Different Physical Noise Characteristics**  
 Daichi Nishihara, Yoshihiro Midoh, Youyang Ng, Osamu Yamane, Goh Ito, Takeshi Fujiwara, Jun Shiomi, Noriyuki Miura  
-*The 42nd Annual NANO Testing Symposium (NANOTS), 2022*
+*The 42nd Annual NANO Testing Symposium (NANOTS), 2022 ([blog](http://www-ise3.ist.osaka-u.ac.jp/2022/11/14/%E3%83%8A%E3%83%8E%E3%83%86%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B7%E3%83%B3%E3%83%9D%E3%82%B8%E3%82%A6%E3%83%A02022-11-8-10/))*
 
 ---
 ## Thesis
