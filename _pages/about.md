@@ -53,7 +53,7 @@ Kengo Nakata, Daisuke Miyashita, Youyang Ng, Yasuto Hoshi, Jun Deguchi
 </div>
 </div>
 
-## Flexible RAG Development Platform
+## Retrieval-Augmented & Retrieval-Centric Generation (RCG) Development Platform
 <div class="paper-box"><div class="paper-box-image"><img src="../images/2023_ralle.png" alt="sym" width="100%"></div>
 <div class="paper-box-text" markdown="1">
 
@@ -63,7 +63,6 @@ Yasuto Hoshi, Daisuke Miyashita, Youyang Ng, Kento Tatsuno, Yasuhiro Morioka, Os
 </div>
 </div>
 
-## Retrieval-Centric Generation (RCG)
 <div class="paper-box"><div class="paper-box-image"><img src="../images/2023_simplyretrieve.png" alt="sym" width="100%"></div>
 <div class="paper-box-text" markdown="1">
 
