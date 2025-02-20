@@ -146,7 +146,7 @@ Yasuto Hoshi, Daisuke Miyashita, Youyang Ng, Kento Tatsuno, Yasuhiro Morioka, Os
 
 1. **A Study on the Effect of Unknown Classes in Domain Adaptation for Image Classification**  
 Daichi Nishihara, Yoshihiro Midoh, Youyang Ng, Osamu Yamane, Maasa Takahashi, Goh Ito, Jun Shiomi, Noriyuki Miura  
-*The 43rd Annual NANO Testing Symposium (NANOTS), 2023*
+*The 43rd Annual NANO Testing Symposium (NANOTS), 2023 ([blog](http://www-ise3.ist.osaka-u.ac.jp/2023/11/09/%E3%83%8A%E3%83%8E%E3%83%86%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B7%E3%83%B3%E3%83%9D%E3%82%B8%E3%82%A6%E3%83%A02023-11-7-9/))*
 
 1. **周期表タスクにおける言語モデルの創発的能力と言語モデルが持つ記憶について**  
 Yasuto Hoshi, Daisuke Miyashita, Yasuhiro Morioka, Youyang Ng, Osamu Torii, Jun Deguchi  
