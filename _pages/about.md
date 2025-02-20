@@ -34,7 +34,16 @@ Ryoya Nara, Yu-Chieh Lin, Yuji Nozawa, Youyang Ng, Goh Itoh, Osamu Torii, Yusuke
 </div>
 </div>
 
-## Explainable Image Retrieval with Large Vision-Language Models
+## Rethinking Image Recognition with Explainable & Editable Knowledge
+<div class="paper-box"><div class="paper-box-image"><img src="../images/2022_knn.png" alt="sym" width="100%"></div>
+<div class="paper-box-text" markdown="1">
+
+**Revisiting a kNN-based Image Classification System with High-capacity Storage**  
+Kengo Nakata, Youyang Ng, Daisuke Miyashita, Asuka Maki, Yu-Chieh Lin, Jun Deguchi  
+*European Conference on Computer Vision (ECCV), 2022, **Oral** ([paper](https://arxiv.org/abs/2204.01186), [press](https://www.kioxia.com/en-jp/about/news/2022/20221102-1.html), [blog](https://www.kioxia.com/en-jp/rd/technology/topics/topics-39.html))*
+</div>
+</div>
+
 <div class="paper-box"><div class="paper-box-image"><img src="../images/2024_sparse.png" alt="sym" width="100%"></div>
 <div class="paper-box-text" markdown="1">
 
@@ -63,14 +72,3 @@ Youyang Ng, Daisuke Miyashita, Yasuto Hoshi, Yasuhiro Morioka, Osamu Torii, Tomo
 *arXiv, 2023 ([paper](https://arxiv.org/abs/2308.03983), [code](https://github.com/RCGAI/SimplyRetrieve), [blog](https://www.kioxia.com/en-jp/rd/technology/topics/topics-58.html))*
 </div>
 </div>
-
-## Rethinking Image Classification with Explainable & Editable Knowledge
-<div class="paper-box"><div class="paper-box-image"><img src="../images/2022_knn.png" alt="sym" width="100%"></div>
-<div class="paper-box-text" markdown="1">
-
-**Revisiting a kNN-based Image Classification System with High-capacity Storage**  
-Kengo Nakata, Youyang Ng, Daisuke Miyashita, Asuka Maki, Yu-Chieh Lin, Jun Deguchi  
-*European Conference on Computer Vision (ECCV), 2022, **Oral** ([paper](https://arxiv.org/abs/2204.01186), [press](https://www.kioxia.com/en-jp/about/news/2022/20221102-1.html), [blog](https://www.kioxia.com/en-jp/rd/technology/topics/topics-39.html))*
-</div>
-</div>
-
