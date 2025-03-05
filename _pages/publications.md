@@ -128,6 +128,10 @@ Yu-Jen Lai, Youyang Ng, Takeshi Sakoda, Yosuke Bando, Arata Miyamoto, Masahiro I
 ---
 ## Domestic Conferences
 
+1. **対話的マルチモーダル画像検索**  
+Tomohisa Takeda, Yu-Chieh Lin, Yuji Nozawa, Youyang Ng, Goh Itoh, Osamu Torii, Yusuke Matsui  
+*電子情報通信学会総合大会, 2025*
+
 1. **CLIPと適合性フィードバックによる対話的検索システム**  
 Ryoya Nara, Yu-Chieh Lin, Yuji Nozawa, Youyang Ng, Goh Itoh, Osamu Torii, Yusuke Matsui  
 *27th Meeting on Image Recognition and Understanding (MIRU), 2024 ([blog](https://mti-lab.github.io/blog/2024/08/15/miru2024.html))*
