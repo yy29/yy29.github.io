@@ -103,7 +103,7 @@ Miyuki Kouda, Yumi Mori, Tomohiko Sugita, Youyang Ng
 
 1. **Open Set Domain Adaptation for Image Classification With Multiple Unknown Labels Using Unsupervised Clustering in a Target Domain**  
 Daichi Nishihara, Yoshihiro Midoh, Youyang Ng, Osamu Yamane, Maasa Takahashi, Shuhei Iijima, Jun Shiomi, Goh Itoh, Noriyuki Miura  
-*Electronic Imaging, 2024 ([paper](https://library.imaging.org/ei/articles/36/15/COIMG-162))*
+*International Symposium on Electronic Imaging, 2024 ([paper](https://library.imaging.org/ei/articles/36/15/COIMG-162))*
 
 1. **RaLLe: A Framework for Developing and Evaluating Retrieval-Augmented Large Language Models**  
 Yasuto Hoshi, Daisuke Miyashita, Youyang Ng, Kento Tatsuno, Yasuhiro Morioka, Osamu Torii, Jun Deguchi  
