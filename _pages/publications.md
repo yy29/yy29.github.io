@@ -5,9 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+[Patents](#patents) &nbsp;&nbsp; [Research Articles](#articles) &nbsp;&nbsp; [Domestic Conferences](#domestic)
+
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=4BGLw_QAAAAJ)
 
 ---
+<a id="patents"></a>
 ## Patents
 
 1. **Information Processing Apparatus**  
@@ -87,6 +90,7 @@ Bo Wang, Youyang Ng, Yuchieh Lin, Kengo Nakata, Takeshi Fujiwara
 *US17/942815, 2022, patent pending ([patent](https://patents.google.com/patent/US20230290125A1/en))*
 
 ---
+<a id="articles"></a>
 ## Research Articles
 
 1. **Improving Image Clustering with Artifacts Attenuation via Inference-Time Attention Engineering**  
@@ -130,6 +134,7 @@ Yu-Jen Lai, Youyang Ng, Takeshi Sakoda, Yosuke Bando, Arata Miyamoto, Masahiro I
 *IEEE Annual Consumer Communications & Networking Conference (CCNC), 2017 ([paper](https://web.media.mit.edu/~bandy/testbed/CCNC17testbed.pdf))*
 
 ---
+<a id="domestic"></a>
 ## Domestic Conferences
 
 1. **対話的マルチモーダル画像検索**  
@@ -165,6 +170,7 @@ Daichi Nishihara, Yoshihiro Midoh, Youyang Ng, Osamu Yamane, Goh Ito, Takeshi Fu
 *The 42nd Annual NANO Testing Symposium (NANOTS), 2022 ([blog](http://www-ise3.ist.osaka-u.ac.jp/2022/11/14/%E3%83%8A%E3%83%8E%E3%83%86%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B7%E3%83%B3%E3%83%9D%E3%82%B8%E3%82%A6%E3%83%A02022-11-8-10/))*
 
 ---
+<a id="thesis"></a>
 ## Thesis
 
 1. **Audio Visual Recognition System for Intelligent Machine**  
