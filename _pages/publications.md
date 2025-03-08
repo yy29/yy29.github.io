@@ -111,7 +111,7 @@ Kengo Nakata, Daisuke Miyashita, <ins>Youyang Ng</ins>, Yasuto Hoshi, Jun Deguch
 
 1. **Open Set Domain Adaptation for Image Classification With Multiple Unknown Labels Using Unsupervised Clustering in a Target Domain**  
 Daichi Nishihara, Yoshihiro Midoh, <ins>Youyang Ng</ins>, Osamu Yamane, Maasa Takahashi, Shuhei Iijima, Jun Shiomi, Goh Itoh, Noriyuki Miura  
-*International Symposium on Electronic Imaging, 2024 ([paper](https://library.imaging.org/ei/articles/36/15/COIMG-162))*
+*International Symposium on Electronic Imaging, 2024 ([paper](https://library.imaging.org/ei/articles/36/15/COIMG-162), [blog](http://www-ise3.ist.osaka-u.ac.jp/2024/02/23/electronic-imaging2024%e3%81%a7%e8%a5%bf%e5%8e%9f-%e5%a4%a7%e5%9c%b0-%e5%90%9bm2%e3%81%8c%e7%99%ba%e8%a1%a8/))*
 
 1. **RaLLe: A Framework for Developing and Evaluating Retrieval-Augmented Large Language Models**  
 Yasuto Hoshi, Daisuke Miyashita, <ins>Youyang Ng</ins>, Kento Tatsuno, Yasuhiro Morioka, Osamu Torii, Jun Deguchi  
