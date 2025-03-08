@@ -7,8 +7,6 @@ author_profile: true
 
 [Patents](#patents) &nbsp;&nbsp; [Research Articles](#articles) &nbsp;&nbsp; [Domestic Conferences](#domestic)
 
-You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=4BGLw_QAAAAJ)
-
 ---
 <a id="patents"></a>
 ## Patents
@@ -176,3 +174,6 @@ Daichi Nishihara, Yoshihiro Midoh, <ins>Youyang Ng</ins>, Osamu Yamane, Goh Ito,
 1. **Audio Visual Recognition System for Intelligent Machine**  
 <ins>Youyang Ng</ins>  
 *Department of Electrical Engineering, Faculty of Engineering, Universiti Malaya (UM), 2010 ([bibliography](https://books.google.co.jp/books?id=KLJKnQAACAAJ))*
+
+---
+You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=4BGLw_QAAAAJ)
