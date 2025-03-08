@@ -97,6 +97,10 @@ Bo Wang, <ins>Youyang Ng</ins>, Yuchieh Lin, Kengo Nakata, Takeshi Fujiwara
 Kazumoto Nakamura, Yuji Nozawa, Yu-Chieh Lin, Kengo Nakata, <ins>Youyang Ng</ins>  
 *Asian Conference on Computer Vision (ACCV), 2024 ([paper](https://openaccess.thecvf.com/content/ACCV2024/html/Nakamura_Improving_Image_Clustering_with_Artifacts_Attenuation_via_Inference-Time_Attention_Engineering_ACCV_2024_paper.html))*
 
+1. **Optimal Design of Wet Etching Bath for 3D Flash Memories Using Multi-Objective Bayesian Optimization**  
+Miyuki Kouda, Yumi Mori, Tomohiko Sugita, <ins>Youyang Ng</ins>  
+*International Symposium on Semiconductor Manufacturing (ISSM), 2024, **Best Paper Award** ([paper](https://ieeexplore.ieee.org/document/10874985), [news](https://www.semiconportal.com/archive/blog/insiders/hattori/250214-chipmanufacturingai.html))*
+
 1. **Revisiting Relevance Feedback for CLIP-based Interactive Image Retrieval**  
 Ryoya Nara, Yu-Chieh Lin, Yuji Nozawa, <ins>Youyang Ng</ins>, Goh Itoh, Osamu Torii, Yusuke Matsui  
 *European Conference on Computer Vision (ECCV) Workshops, 2024 ([paper](https://arxiv.org/abs/2404.16398))*
@@ -104,10 +108,6 @@ Ryoya Nara, Yu-Chieh Lin, Yuji Nozawa, <ins>Youyang Ng</ins>, Goh Itoh, Osamu To
 1. **Rethinking Sparse Lexical Representations for Image Retrieval in the Age of Rising Multi-Modal Large Language Models**  
 Kengo Nakata, Daisuke Miyashita, <ins>Youyang Ng</ins>, Yasuto Hoshi, Jun Deguchi  
 *European Conference on Computer Vision (ECCV) Workshops, 2024 ([paper](https://arxiv.org/abs/2408.16296), [blog](https://www.kioxia.com/en-jp/rd/technology/topics/topics-76.html))*
-
-1. **Optimal Design of Wet Etching Bath for 3D Flash Memories Using Multi-Objective Bayesian Optimization**  
-Miyuki Kouda, Yumi Mori, Tomohiko Sugita, <ins>Youyang Ng</ins>  
-*International Symposium on Semiconductor Manufacturing (ISSM), 2024, **Best Paper Award** ([paper](https://ieeexplore.ieee.org/document/10874985), [news](https://www.semiconportal.com/archive/blog/insiders/hattori/250214-chipmanufacturingai.html))*
 
 1. **Open Set Domain Adaptation for Image Classification With Multiple Unknown Labels Using Unsupervised Clustering in a Target Domain**  
 Daichi Nishihara, Yoshihiro Midoh, <ins>Youyang Ng</ins>, Osamu Yamane, Maasa Takahashi, Shuhei Iijima, Jun Shiomi, Goh Itoh, Noriyuki Miura  
