@@ -11,7 +11,7 @@ Hi I'm Youyang. I am currently a researcher and team leader at the research lab 
 
 I have co-authored over 30 patents and research articles including publications at ECCV, ACCV, EMNLP and others. I have been serving as a reviewer at ACL Rolling Review, WACV, ACL, EMNLP and others. I have received outstanding reviewer recognition at EMNLP. I am also a Senior Member of IEEE. I have over 14 years of industrial R&D experiences, previously worked at Toshiba Corporation, and hold a B.Eng from Universiti Malaya, Malaysia. I speak English, Japanese, Chinese and Malay.
 
-[Google Scholar](https://scholar.google.com/citations?user=4BGLw_QAAAAJ) &nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/youyang-ng-55a10ab9/)
+[Google Scholar](https://scholar.google.com/citations?user=4BGLw_QAAAAJ) &nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/youyang-ng-55a10ab9/) &nbsp;&nbsp; [Publications List](publications.md)
 
 Selected Works
 ======
