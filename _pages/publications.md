@@ -123,7 +123,7 @@ Yasuto Hoshi, Daisuke Miyashita, <ins>Youyang Ng</ins>, Kento Tatsuno, Yasuhiro 
 
 1. **Can a Frozen Pretrained Language Model be used for Zero-shot Neural Retrieval on Entity-centric Questions?**  
 Yasuto Hoshi, Daisuke Miyashita, Yasuhiro Morioka, <ins>Youyang Ng</ins>, Osamu Torii, Jun Deguchi  
-*AAAI Conference on Artificial Intelligence (AAAI-23) Workshops, 2023 ([paper](https://arxiv.org/abs/2303.05153))*
+*AAAI Conference on Artificial Intelligence (AAAI-23) Workshops, 2023 ([paper](https://arxiv.org/abs/2303.05153), [blog](https://www.kioxia.com/en-jp/rd/technology/topics/topics-43.html))*
 
 1. **Revisiting a kNN-based Image Classification System with High-capacity Storage**  
 Kengo Nakata, <ins>Youyang Ng</ins>, Daisuke Miyashita, Asuka Maki, Yu-Chieh Lin, Jun Deguchi  
