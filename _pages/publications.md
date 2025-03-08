@@ -79,7 +79,7 @@ Yosuke Bando, Yujen Lai, <ins>Youyang Ng</ins>, Kenichi Maeda, Takeshi Sakoda, T
 
 1. **Information Processing Apparatus and Information Processing Method**  
 Yuchieh Lin, Yuji Nozawa, <ins>Youyang Ng</ins>, Takeshi Fujiwara, Osamu Torii  
-*US18/820977, 2025, patent pending*
+*US18/820977, 2024, patent pending*
 
 1. **Semiconductor Image Processing Apparatus and Semiconductor Image Processing Method**  
 Shuhei Iijima, Osamu Yamane, <ins>Youyang Ng</ins>, Yuchieh Lin, Takuji Ohashi, Takeshi Fujiwara  
