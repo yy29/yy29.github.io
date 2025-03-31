@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi I'm Youyang. I am an experienced industrial researcher in  Computer Vision, Natural Language Processing and Machine Learning, with track record in patents, publications and practical implementations.
+Hi I'm Youyang. I am an experienced industrial researcher specializing in  Computer Vision, Natural Language Processing, and Machine Learning, with track record in patents, publications, and practical implementations.
 
 Currently, I lead a research team at Kioxia Corporation, Japan, focusing on basic and applied studies in Computer Vision, Natural Language Processing, Machine Learning, and Memory Systems. My research interests lie in the intersection of memory, intelligence, and alignment in vision and language models.
 
