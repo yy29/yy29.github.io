@@ -17,7 +17,7 @@ I have co-authored over 30 patents and research articles, including publications
 
 Selected Works
 ======
-## Boosting Pretrained Vision Foundation Models
+## Boosting Vision Foundation Models
 <div class="paper-box"><div class="paper-box-image"><img src="../images/2024_itae.png" alt="sym" width="100%"></div>
 <div class="paper-box-text" markdown="1">
 
