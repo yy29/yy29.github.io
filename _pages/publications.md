@@ -91,6 +91,10 @@ Bo Wang, <ins>Youyang Ng</ins>, Yuchieh Lin, Kengo Nakata, Takeshi Fujiwara
 <a id="articles"></a>
 ## Research Articles
 
+1. **Prompt-Guided Attention Head Selection for Focus-Oriented Image Retrieval**  
+Yuji Nozawa, Yu-Chieh Lin, Kazumoto Nakamura, <ins>Youyang Ng</ins>  
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2025 ([paper](https://arxiv.org/abs/2504.01348))*
+
 1. **Improving Image Clustering with Artifacts Attenuation via Inference-Time Attention Engineering**  
 Kazumoto Nakamura, Yuji Nozawa, Yu-Chieh Lin, Kengo Nakata, <ins>Youyang Ng</ins>  
 *Asian Conference on Computer Vision (ACCV), 2024 ([paper](https://openaccess.thecvf.com/content/ACCV2024/html/Nakamura_Improving_Image_Clustering_with_Artifacts_Attenuation_via_Inference-Time_Attention_Engineering_ACCV_2024_paper.html))*
