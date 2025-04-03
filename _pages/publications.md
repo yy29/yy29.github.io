@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-[Patents](#patents) &nbsp;&nbsp; [Research Articles](#articles) &nbsp;&nbsp; [Domestic Conferences](#domestic)
+[Patents](#patents) &nbsp;&nbsp; [Research Article Publications](#articles) &nbsp;&nbsp; [Domestic Conference Proceedings](#domestic)
 
 ---
 <a id="patents"></a>
@@ -89,7 +89,7 @@ Bo Wang, <ins>Youyang Ng</ins>, Yuchieh Lin, Kengo Nakata, Takeshi Fujiwara
 
 ---
 <a id="articles"></a>
-## Research Articles
+## Research Article Publications
 
 1. **Prompt-Guided Attention Head Selection for Focus-Oriented Image Retrieval**  
 Yuji Nozawa, Yu-Chieh Lin, Kazumoto Nakamura, <ins>Youyang Ng</ins>  
