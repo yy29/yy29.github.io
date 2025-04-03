@@ -137,7 +137,7 @@ Yu-Jen Lai, <ins>Youyang Ng</ins>, Takeshi Sakoda, Yosuke Bando, Arata Miyamoto,
 
 ---
 <a id="domestic"></a>
-## Domestic Conferences
+## Domestic Conference Proceedings
 
 1. **対話的マルチモーダル画像検索**  
 Tomohisa Takeda, Yu-Chieh Lin, Yuji Nozawa, <ins>Youyang Ng</ins>, Goh Itoh, Osamu Torii, Yusuke Matsui  
