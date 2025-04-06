@@ -2,7 +2,7 @@
 layout: archive
 title: "Publications"
 permalink: /publications/
-author_profile: true
+author_profile: false
 ---
 
 [Patents](#patents) &nbsp;&nbsp; [Research Article Publications](#articles) &nbsp;&nbsp; [Domestic Conference Proceedings](#domestic)
