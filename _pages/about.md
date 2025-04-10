@@ -75,7 +75,7 @@ Yasuto Hoshi, Daisuke Miyashita, <ins>Youyang Ng</ins>, Kento Tatsuno, Yasuhiro 
 </div>
 </div>
 
-<div class="paper-box"><div class="paper-box-image"><img src="../images/2023_simplyretrieve.png" alt="sym" width="60%"></div>
+<div class="paper-box"><div class="paper-box-image"><center><img src="../images/2023_simplyretrieve.png" alt="sym" width="50%"></center></div>
 <div class="paper-box-text" markdown="1">
 
 **SimplyRetrieve: A Private and Lightweight Retrieval-Centric Generative AI Tool**  
