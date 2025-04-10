@@ -37,7 +37,7 @@ Ryoya Nara, Yu-Chieh Lin, Yuji Nozawa, <ins>Youyang Ng</ins>, Goh Itoh, Osamu To
 </div>
 </div>
 
-## Rethinking Visual Recognition with Explainable & Editable Knowledge
+## Rethinking AI Models with Separable, Explainable & Editable Knowledge
 <div class="paper-box"><div class="paper-box-image"><img src="../images/2022_knn.png" alt="sym" width="100%"></div>
 <div class="paper-box-text" markdown="1">
 
