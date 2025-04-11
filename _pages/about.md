@@ -65,7 +65,7 @@ Kengo Nakata, Daisuke Miyashita, <ins>Youyang Ng</ins>, Yasuto Hoshi, Jun Deguch
 </div>
 </div>
 
-## Development of Retrieval-Augmented & Retrieval-Centric Generation
+## Language Models with Retrieval-Augmented & Retrieval-Centric Generation
 <div class="paper-box"><div class="paper-box-image"><img src="../images/2023_ralle.png" alt="sym" width="100%"></div>
 <div class="paper-box-text" markdown="1">
 
