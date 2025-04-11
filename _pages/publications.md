@@ -141,7 +141,7 @@ Yu-Jen Lai, <ins>Youyang Ng</ins>, Takeshi Sakoda, Yosuke Bando, Arata Miyamoto,
 
 1. **対話的マルチモーダル画像検索**  
 Tomohisa Takeda, Yu-Chieh Lin, Yuji Nozawa, <ins>Youyang Ng</ins>, Goh Itoh, Osamu Torii, Yusuke Matsui  
-*電子情報通信学会総合大会, 2025*
+*電子情報通信学会総合大会, 2025 ([paper](https://pub.confit.atlas.jp/ja/event/general2025/presentation/D-12-49))*
 
 1. **CLIPと適合性フィードバックによる対話的検索システム**  
 Ryoya Nara, Yu-Chieh Lin, Yuji Nozawa, <ins>Youyang Ng</ins>, Goh Itoh, Osamu Torii, Yusuke Matsui  
