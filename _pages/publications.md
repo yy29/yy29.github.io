@@ -91,6 +91,10 @@ Bo Wang, <ins>Youyang Ng</ins>, Yuchieh Lin, Kengo Nakata, Takeshi Fujiwara
 <a id="articles"></a>
 ## Research Article Publications
 
+1. **Optimal Design of Wet Etching Bath for 3D Flash Memories Using Multi-Objective Bayesian Optimization**  
+Miyuki Kouda, Yumi Mori, Tomohiko Sugita, <ins>Youyang Ng</ins>  
+*IEEE Transactions on Semiconductor Manufacturing, 2025 (Extended version of our ISSM2024 paper) ([paper](https://ieeexplore.ieee.org/document/11002558))*
+
 1. **Prompt-Guided Attention Head Selection for Focus-Oriented Image Retrieval**  
 Yuji Nozawa, Yu-Chieh Lin, Kazumoto Nakamura, <ins>Youyang Ng</ins>  
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2025 ([paper](https://arxiv.org/abs/2504.01348))*
