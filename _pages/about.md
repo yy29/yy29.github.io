@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi I'm Youyang. I am an experienced industrial researcher specializing in  Computer Vision, Natural Language Processing, and Machine Learning, with track record in patents, publications, and practical implementations.
-
-Currently, I lead a research team at Kioxia Corporation, Japan, focusing on basic and applied studies in Computer Vision, Natural Language Processing, Machine Learning, and Memory Systems. My research interests lie in the intersection of memory, intelligence, and alignment in vision and language models.
+Hi I'm Youyang. I am an experienced industrial researcher focusing on basic and applied studies in Computer Vision, Natural Language Processing, Machine Learning, and Memory Systems, with track record in patents, publications, and practical implementations. Currently, I lead a deep learning research team at Kioxia Corporation, Japan. My research interests lie in the intersection of memory, intelligence, and alignment in vision and language models.
 
 I have co-authored over 30 patents and research articles, including publications in notable venues such as ECCV, ACCV and EMNLP. Additionally, I have served as a reviewer for venues including ACL Rolling Review, ICCV, WACV, ACL, EMNLP and NAACL. I have received outstanding reviewer recognition at EMNLP. I am also a Senior Member of IEEE. I have over 14 years of industrial R&D experiences, including roles at Kioxia and Toshiba Corporation, and hold a B.Eng from Universiti Malaya, Malaysia. The tools I help develop inspect and analyze millions of visual data daily in social infrastructure & semiconductor industries. I speak English, Japanese, Chinese and Malay.
 
