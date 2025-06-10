@@ -97,7 +97,7 @@ Miyuki Kouda, Yumi Mori, Tomohiko Sugita, <ins>Youyang Ng</ins>
 
 1. **Prompt-Guided Attention Head Selection for Focus-Oriented Image Retrieval**  
 Yuji Nozawa, Yu-Chieh Lin, Kazumoto Nakamura, <ins>Youyang Ng</ins>  
-*IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2025 ([paper](https://arxiv.org/abs/2504.01348))*
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2025 ([paper](https://openaccess.thecvf.com/content/CVPR2025W/PixFoundation/html/Nozawa_Prompt-Guided_Attention_Head_Selection_for_Focus-Oriented_Image_Retrieval_CVPRW_2025_paper.html))*
 
 1. **Improving Image Clustering with Artifacts Attenuation via Inference-Time Attention Engineering**  
 Kazumoto Nakamura, Yuji Nozawa, Yu-Chieh Lin, Kengo Nakata, <ins>Youyang Ng</ins>  
