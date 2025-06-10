@@ -17,12 +17,12 @@ I have co-authored over 30 patents and research articles, including publications
 Selected Works
 ======
 ## Aligning Human-AI Perception in Vision Foundation Models
-<div class="paper-box"><div class="paper-box-image"><img src="../images/coming_soon.png" alt="sym" width="100%"></div>
+<div class="paper-box"><div class="paper-box-image"><img src="../images/2025_phs.png" alt="sym" width="100%"></div>
 <div class="paper-box-text" markdown="1">
 
 **Prompt-Guided Attention Head Selection for Focus-Oriented Image Retrieval**  
 Yuji Nozawa, Yu-Chieh Lin, Kazumoto Nakamura, <ins>Youyang Ng</ins>  
-*IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2025 ([paper](https://arxiv.org/abs/2504.01348))*
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2025 ([paper](https://openaccess.thecvf.com/content/CVPR2025W/PixFoundation/html/Nozawa_Prompt-Guided_Attention_Head_Selection_for_Focus-Oriented_Image_Retrieval_CVPRW_2025_paper.html))*
 </div>
 </div>
 
