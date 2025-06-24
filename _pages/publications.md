@@ -143,6 +143,14 @@ Yu-Jen Lai, <ins>Youyang Ng</ins>, Takeshi Sakoda, Yosuke Bando, Arata Miyamoto,
 <a id="domestic"></a>
 ## Domestic Conference Proceedings
 
+1. **チャットベースマルチモーダル画像検索**  
+Ryoya Nara, Yu-Chieh Lin, Yuji Nozawa, <ins>Youyang Ng</ins>, Osamu Torii, Yusuke Matsui  
+*28th Meeting on Image Recognition and Understanding (MIRU), 2025*
+
+1. **顕微鏡画像のセグメンテーションモデルに対する訓練データの自己生成における単純図形の再考**  
+Shuhei Iijima, Takuji Ohashi, Yu-Chieh Lin, <ins>Youyang Ng</ins>  
+*28th Meeting on Image Recognition and Understanding (MIRU), 2025*
+
 1. **対話的マルチモーダル画像検索**  
 Tomohisa Takeda, Yu-Chieh Lin, Yuji Nozawa, <ins>Youyang Ng</ins>, Goh Itoh, Osamu Torii, Yusuke Matsui  
 *電子情報通信学会総合大会, 2025 ([paper](https://pub.confit.atlas.jp/ja/event/general2025/presentation/D-12-49))*
