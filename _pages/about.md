@@ -81,3 +81,17 @@ Yasuto Hoshi, Daisuke Miyashita, <ins>Youyang Ng</ins>, Kento Tatsuno, Yasuhiro 
 *arXiv, 2023 ([paper](https://arxiv.org/abs/2308.03983), [code](https://github.com/RCGAI/SimplyRetrieve), [blog](https://www.kioxia.com/en-jp/rd/technology/topics/topics-58.html))*
 </div>
 </div>
+
+Services
+======
+* IEEE Senior Member
+* Reviewer, Association for Computational Linguistics Rolling Review (ACL ARR)
+* Reviewer, IEEE/CVF International Conference on Computer Vision (ICCV)
+* Reviewer, British Machine Vision Conference (BMVC)
+* Reviewer, International Conference on Machine Learning (ICML) VecDB Workshop
+* Reviewer, IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
+* Reviewer, Annual Meeting of the Association for Computational Linguistics (ACL)
+* Reviewer, Conference on Empirical Methods in Natural Language Processing (EMNLP)
+* Reviewer, Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL)
+* Reviewer, Conference on Empirical Methods in Natural Language Processing (EMNLP) System Demo
+* Reviewer, Annual Meeting of the Association for Computational Linguistics (ACL) System Demo
