@@ -12,7 +12,7 @@ Hi I'm Youyang. I am an experienced industry researcher focusing on basic and ap
 
 I have co-authored over 40 patents and research articles, including publications in notable venues such as ECCV, ACCV and EMNLP. Additionally, I have served as a reviewer for venues including ACL Rolling Review, ICCV, WACV, BMVC, ACL, EMNLP and NAACL. I have received outstanding reviewer recognition at EMNLP. I am also a Senior Member of IEEE. I have over 14 years of industrial R&D experiences, including roles at Kioxia and Toshiba Corporation in Japan, and hold a B.Eng from Universiti Malaya, Malaysia. The tools I helped develop inspect and analyze millions of visual data daily in social infrastructure & semiconductor industries. I speak English, Japanese, Chinese and Malay.
 
-[Google Scholar](https://scholar.google.com/citations?user=4BGLw_QAAAAJ) &nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/youyang-ng-55a10ab9/) &nbsp;&nbsp; [Publications List](publications.md)
+[Google Scholar](https://scholar.google.com/citations?user=4BGLw_QAAAAJ) &nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/youyang-ng-55a10ab9/) &nbsp;&nbsp; [Publications List](publications.md) &nbsp;&nbsp; [Services](#services)
 
 Selected Works
 ======
@@ -82,6 +82,7 @@ Yasuto Hoshi, Daisuke Miyashita, <ins>Youyang Ng</ins>, Kento Tatsuno, Yasuhiro 
 </div>
 </div>
 
+<a id="services"></a>
 Services
 ======
 * IEEE Senior Member
