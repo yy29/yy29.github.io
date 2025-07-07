@@ -82,6 +82,16 @@ Yasuto Hoshi, Daisuke Miyashita, <ins>Youyang Ng</ins>, Kento Tatsuno, Yasuhiro 
 </div>
 </div>
 
+## Machine Learning with Synthetic Data
+<div class="paper-box"><div class="paper-box-image"><img src="../images/coming_soon.png" alt="sym" width="100%"></div>
+<div class="paper-box-text" markdown="1">
+
+**Revisiting Self-Generating Simple Figure Patterns for Learning Microscopy Image Segmentation**  
+Shuhei Iijima, Takuji Ohashi, Yu-Chieh Lin, <ins>Youyang Ng</ins>  
+*International Conference on Machine Vision Applications (MVA), 2025*
+</div>
+</div>
+
 <a id="services"></a>
 
 Services
