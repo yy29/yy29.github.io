@@ -105,7 +105,7 @@ Yuji Nozawa, Yu-Chieh Lin, Kazumoto Nakamura, <ins>Youyang Ng</ins>
 
 1. **Improving Image Clustering with Artifacts Attenuation via Inference-Time Attention Engineering**  
 Kazumoto Nakamura, Yuji Nozawa, Yu-Chieh Lin, Kengo Nakata, <ins>Youyang Ng</ins>  
-*Asian Conference on Computer Vision (ACCV), 2024 ([paper](https://openaccess.thecvf.com/content/ACCV2024/html/Nakamura_Improving_Image_Clustering_with_Artifacts_Attenuation_via_Inference-Time_Attention_Engineering_ACCV_2024_paper.html))*
+*Asian Conference on Computer Vision (ACCV), 2024 ([paper](https://openaccess.thecvf.com/content/ACCV2024/html/Nakamura_Improving_Image_Clustering_with_Artifacts_Attenuation_via_Inference-Time_Attention_Engineering_ACCV_2024_paper.html), [blog](https://www.kioxia.com/en-jp/rd/technology/topics/topics-84.html))*
 
 1. **Optimal Design of Wet Etching Bath for 3D Flash Memories Using Multi-Objective Bayesian Optimization**  
 Miyuki Kouda, Yumi Mori, Tomohiko Sugita, <ins>Youyang Ng</ins>  
