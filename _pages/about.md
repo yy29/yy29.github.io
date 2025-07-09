@@ -108,7 +108,7 @@ Services
 * Reviewer, Conference on Empirical Methods in Natural Language Processing (EMNLP) System Demo
 * Reviewer, Annual Meeting of the Association for Computational Linguistics (ACL) System Demo
 
-Recognition
+Recognitions
 ======
 * Outstanding Reviewer Recognition, Conference on Empirical Methods in Natural Language Processing (EMNLP), 2024
 * Best Paper Award, International Symposium on Semiconductor Manufacturing (ISSM), 2024
