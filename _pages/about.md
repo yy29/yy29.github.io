@@ -107,3 +107,13 @@ Services
 * Reviewer, Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL)
 * Reviewer, Conference on Empirical Methods in Natural Language Processing (EMNLP) System Demo
 * Reviewer, Annual Meeting of the Association for Computational Linguistics (ACL) System Demo
+
+Recognition
+======
+* Outstanding Reviewer Recognition, Conference on Empirical Methods in Natural Language Processing (EMNLP), 2024
+* Best Paper Award, International Symposium on Semiconductor Manufacturing (ISSM), 2024
+* IEEE Senior Member Grade Elevation and IEEE Japan Medal, IEEE, 2020
+* Silver Medal, International Exposition of Research & Invention of Institutions of Higher Learning (PECIPTA), Ministry of Higher Education Malaysia, 2009
+* 2nd Runner Up, Schneider Electric University Challenge Malaysia, 2009
+* Best Idea Award, ROBOCON Malaysia, 2009
+* Outstanding Student Award, Penang State Government, Malaysia, 2004
