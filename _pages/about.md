@@ -114,6 +114,8 @@ Recognitions
 ======
 * Outstanding Reviewer Recognition, Conference on Empirical Methods in Natural Language Processing (EMNLP), 2024
 * Best Paper Award, International Symposium on Semiconductor Manufacturing (ISSM), 2024
+* Kioxia Corporate-level Performance Award, Kioxia Corporation, 2023
+* Kioxia Corporate-level Performance Award, Kioxia Corporation, 2021
 * IEEE Senior Member Grade Elevation and IEEE Japan Medal, IEEE, 2020
 * Silver Medal, International Exposition of Research & Invention of Institutions of Higher Learning (PECIPTA), Ministry of Higher Education Malaysia, 2009
 * 2nd Runner Up, Schneider Electric University Challenge Malaysia, 2009
