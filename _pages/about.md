@@ -129,3 +129,12 @@ Work Experiences & Educations
 * Researcher & Team Leader, Kioxia Corporation, Japan, 2017-Current
 * Researcher & Machine Vision Engineer, Toshiba Corporation, Japan, 2010-2017
 * Degree of Bachelor of Engineering (Electrical), Universiti Malaya, Malaysia, 2006-2010
+
+<a id="interest"></a>
+
+Areas of Interest
+======
+* Machine Learning
+* Computer Vision
+* Natural Language Processing
+* Memory System
