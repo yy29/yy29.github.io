@@ -121,3 +121,11 @@ Recognitions
 * 2nd Runner Up, Schneider Electric University Challenge Malaysia, 2009
 * Best Idea Award, ROBOCON Malaysia, 2009
 * Outstanding Student Award, Penang State Government, Malaysia, 2004
+
+<a id="experiences"></a>
+
+Work Experiences & Educations
+======
+* Researcher & Team Leader, Kioxia Corporation, Japan, 2017-Current
+* Researcher & Machine Vision Engineer, Toshiba Corporation, Japan, 2010-2017
+* Degree of Bachelor of Engineering (Electrical), Universiti Malaya, Malaysia, 2006-2010
