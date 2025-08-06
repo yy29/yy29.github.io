@@ -157,7 +157,7 @@ Shuhei Iijima, Takuji Ohashi, Yu-Chieh Lin, <ins>Youyang Ng</ins>
 
 1. **対話的マルチモーダル画像検索**  
 Tomohisa Takeda, Yu-Chieh Lin, Yuji Nozawa, <ins>Youyang Ng</ins>, Goh Itoh, Osamu Torii, Yusuke Matsui  
-*電子情報通信学会総合大会, 2025 ([paper](https://pub.confit.atlas.jp/ja/event/general2025/presentation/D-12-49))*
+*電子情報通信学会総合大会, 2025 ([paper](https://www.ieice.org/publications/search/summary.php?id=CONF0000145361&tbl=conf&lang=en))*
 
 1. **CLIPと適合性フィードバックによる対話的検索システム**  
 Ryoya Nara, Yu-Chieh Lin, Yuji Nozawa, <ins>Youyang Ng</ins>, Goh Itoh, Osamu Torii, Yusuke Matsui  
