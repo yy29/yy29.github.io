@@ -11,6 +11,10 @@ author_profile: false
 <a id="patents"></a>
 ## Patents
 
+1. **Image Processing Apparatus and Image Processing Method**  
+Bo Wang, <ins>Youyang Ng</ins>, Yuchieh Lin, Kengo Nakata, Takeshi Fujiwara  
+*US12394188B2, 2025 ([patent](https://patents.google.com/patent/US20230290125A1/en))*
+
 1. **Information Processing Apparatus**  
 <ins>Youyang Ng</ins>, Bo Wang, Takuji Ohashi, Osamu Yamane, Takeshi Fujiwara  
 *JP7527902B2, 2024 ([patent](https://patents.google.com/patent/JP7527902B2/en))*
@@ -76,16 +80,16 @@ Yosuke Bando, Yujen Lai, <ins>Youyang Ng</ins>, Kenichi Maeda, Takeshi Sakoda, T
 *US9359165B2, 2016 ([patent](https://patents.google.com/patent/US9359165B2/en))*
 
 1. **Information Processing Apparatus and Information Processing Method**  
+Yumi Mori, Miyuki Kouda, <ins>Youyang Ng</ins>, Takeshi Fujiwara, Atsushi Maesono  
+*US18/830793, 2025, patent pending*
+
+1. **Information Processing Apparatus and Information Processing Method**  
 Yuchieh Lin, Yuji Nozawa, <ins>Youyang Ng</ins>, Takeshi Fujiwara, Osamu Torii  
 *US18/820977, 2024, patent pending ([patent](https://patents.google.com/patent/US20250077572A1/en))*
 
 1. **Semiconductor Image Processing Apparatus and Semiconductor Image Processing Method**  
 Shuhei Iijima, Osamu Yamane, <ins>Youyang Ng</ins>, Yuchieh Lin, Takuji Ohashi, Takeshi Fujiwara  
 *US18/589658, 2024, patent pending ([patent](https://patents.google.com/patent/US20240311997A1/en))*
-
-1. **Image Processing Apparatus and Image Processing Method**  
-Bo Wang, <ins>Youyang Ng</ins>, Yuchieh Lin, Kengo Nakata, Takeshi Fujiwara  
-*US17/942815, 2022, patent pending ([patent](https://patents.google.com/patent/US20230290125A1/en))*
 
 ---
 <a id="articles"></a>
