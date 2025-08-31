@@ -14,9 +14,12 @@ I have co-authored over 40 patents and research articles, including publications
 
 [Google Scholar](https://scholar.google.com/citations?user=4BGLw_QAAAAJ) &nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/youyang-ng-55a10ab9/) &nbsp;&nbsp; [Publications](publications.md) &nbsp;&nbsp; [Services](#services) &nbsp;&nbsp; [Recognitions](#recognitions)
 
-Selected Works
-======
-## Aligning Human-AI Perception in Vision Foundation Models
+# AI & Machine Learning Algorithm R&D Tips
+* [Setting up machine learning development environment on AWS EC2](https://github.com/yy29/aws-ec2-tips-llm-chat-ai)
+
+# Selected Works
+
+### Aligning Human-AI Perception in Vision Foundation Models
 <div class="paper-box"><div class="paper-box-image"><img src="../images/2025_phs.png" alt="sym" width="100%"></div>
 <div class="paper-box-text" markdown="1">
 
@@ -44,7 +47,7 @@ Ryoya Nara, Yu-Chieh Lin, Yuji Nozawa, <ins>Youyang Ng</ins>, Goh Itoh, Osamu To
 </div>
 </div>
 
-## Empowering Vision Models with Separable, Explainable & Editable Knowledge
+### Empowering Vision Models with Separable, Explainable & Editable Knowledge
 <div class="paper-box"><div class="paper-box-image"><img src="../images/2022_knn.png" alt="sym" width="100%"></div>
 <div class="paper-box-text" markdown="1">
 
@@ -63,7 +66,7 @@ Kengo Nakata, Daisuke Miyashita, <ins>Youyang Ng</ins>, Yasuto Hoshi, Jun Deguch
 </div>
 </div>
 
-## Augmenting Language Models with Memory
+### Augmenting Language Models with Memory
 <div class="paper-box"><div class="paper-box-image"><img src="../images/2023_ralle.png" alt="sym" width="100%"></div>
 <div class="paper-box-text" markdown="1">
 
@@ -82,7 +85,7 @@ Yasuto Hoshi, Daisuke Miyashita, <ins>Youyang Ng</ins>, Kento Tatsuno, Yasuhiro 
 </div>
 </div>
 
-## Machine Learning with Synthetic Data
+### Machine Learning with Synthetic Data
 <div class="paper-box"><div class="paper-box-image"><img src="../images/coming_soon.png" alt="sym" width="100%"></div>
 <div class="paper-box-text" markdown="1">
 
@@ -94,8 +97,7 @@ Shuhei Iijima, Takuji Ohashi, Yu-Chieh Lin, <ins>Youyang Ng</ins>
 
 <a id="services"></a>
 
-Services
-======
+# Services
 * IEEE Senior Member
 * Reviewer, Association for Computational Linguistics Rolling Review (ACL ARR)
 * Reviewer, IEEE/CVF International Conference on Computer Vision (ICCV)
@@ -110,8 +112,7 @@ Services
 
 <a id="recognitions"></a>
 
-Recognitions
-======
+# Recognitions
 * Outstanding Reviewer Recognition, Conference on Empirical Methods in Natural Language Processing (EMNLP), 2024
 * Best Paper Award, International Symposium on Semiconductor Manufacturing (ISSM), 2024
 * Kioxia Corporate-level Performance Award, Kioxia Corporation, 2023
@@ -124,16 +125,14 @@ Recognitions
 
 <a id="experiences"></a>
 
-Work Experiences & Educations
-======
+# Work Experiences & Educations
 * Researcher & Team Leader, Kioxia Corporation, Japan, 2017-Current
 * Researcher & Machine Vision Engineer, Toshiba Corporation, Japan, 2010-2017
 * Degree of Bachelor of Engineering (Electrical), Universiti Malaya, Malaysia, 2006-2010
 
 <a id="interest"></a>
 
-Areas of Interest
-======
+# Areas of Interest
 * Machine Learning
 * Computer Vision
 * Natural Language Processing
