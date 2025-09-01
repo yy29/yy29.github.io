@@ -15,7 +15,7 @@ I have co-authored over 40 patents and research articles, including publications
 [Google Scholar](https://scholar.google.com/citations?user=4BGLw_QAAAAJ) &nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/youyang-ng-55a10ab9/) &nbsp;&nbsp; [Publications](publications.md) &nbsp;&nbsp; [Services](#services) &nbsp;&nbsp; [Recognitions](#recognitions)
 
 # AI & Machine Learning Algorithm R&D Tips
-* [Setting up machine learning development environment on AWS EC2](https://github.com/yy29/aws-ec2-tips-llm-chat-ai)
+* Tips: [Setting up AI development environment on AWS EC2](https://github.com/yy29/aws-ec2-tips-llm-chat-ai)
 
 # Selected Works
 
