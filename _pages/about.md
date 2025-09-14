@@ -13,7 +13,7 @@ Hi, I’m Youyang, a seasoned industry researcher in Computer Vision, Natural La
 [Google Scholar](https://scholar.google.com/citations?user=4BGLw_QAAAAJ) &nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/youyang-ng-55a10ab9/) &nbsp;&nbsp; [Publications](publications.md) &nbsp;&nbsp; [Services](#services) &nbsp;&nbsp; [Recognitions](#recognitions)
 
 # AI & Machine Learning Algorithm R&D Tips
-* Tips: [Setup AI development & LLM training environment](https://github.com/yy29/aws-ec2-tips-llm-chat-ai)
+* Tips: [Setup AI development & LLM training platform](https://github.com/yy29/aws-ec2-tips-llm-chat-ai)
 
 # Selected Works
 
