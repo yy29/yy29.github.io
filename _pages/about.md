@@ -85,7 +85,7 @@ Yasuto Hoshi, Daisuke Miyashita, <ins>Youyang Ng</ins>, Kento Tatsuno, Yasuhiro 
 </div>
 </div>
 
-### Machine Learning with Synthetic Data
+### Machine Learning with Synthetic Data Generation
 <div class="paper-box"><div class="paper-box-image"><img src="../images/coming_soon.png" alt="sym" width="100%"></div>
 <div class="paper-box-text" markdown="1">
 
