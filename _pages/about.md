@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, I’m Youyang, a seasoned industry researcher in Computer Vision, Natural Language Processing, Machine Learning, and Memory Systems. I lead a deep learning research team at Kioxia Corporation, Japan, where I explore the intersection of memory, intelligence, and perception in vision and language models. With over 14 years of industrial R&D experience (Kioxia, Toshiba) and 40+ patents and publications (ECCV, EMNLP, ACCV, etc.), my work bridges academic insight and real-world impact. I have served as a reviewer for top conferences and received outstanding reviewer recognition at EMNLP. The tools I co-developed inspect and analyze millions of visual data daily in social infrastructure & semiconductor industries. I am a Senior Member of IEEE and hold a B.Eng from Universiti Malaya, Malaysia. I speak English, Japanese, Chinese, and Malay.
 
-[Google Scholar](https://scholar.google.com/citations?user=4BGLw_QAAAAJ) &nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/youyang-ng-55a10ab9/) &nbsp;&nbsp; [Publications](publications.md) &nbsp;&nbsp; [Academic service](#service) &nbsp;&nbsp; [Recognitions](#recognitions)
+[Google Scholar](https://scholar.google.com/citations?user=4BGLw_QAAAAJ) &nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/youyang-ng-55a10ab9/) &nbsp;&nbsp; [Publications](publications.md) &nbsp;&nbsp; [Academic Service](#service) &nbsp;&nbsp; [Recognitions](#recognitions)
 
 # AI & Machine Learning Algorithm R&D Tips
 * Tips: [Setup AI development & LLM training platform](https://github.com/yy29/aws-ec2-tips-llm-chat-ai)
