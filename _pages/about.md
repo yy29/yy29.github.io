@@ -84,7 +84,7 @@ Yasuto Hoshi, Daisuke Miyashita, <ins>Youyang Ng</ins>, Kento Tatsuno, Yasuhiro 
 </div>
 
 ### Machine Learning with Synthetic Data Generation
-<div class="paper-box"><div class="paper-box-image"><img src="../images/coming_soon.png" alt="sym" width="100%"></div>
+<div class="paper-box"><div class="paper-box-image"><center><img src="../images/2025_synthetic.png" alt="sym" width="70%"></center></div>
 <div class="paper-box-text" markdown="1">
 
 **Revisiting Self-Generating Simple Figure Patterns for Learning Microscopy Image Segmentation**  
