@@ -97,7 +97,7 @@ Shuhei Iijima, Osamu Yamane, <ins>Youyang Ng</ins>, Yuchieh Lin, Takuji Ohashi, 
 
 1. **Revisiting Self-Generating Simple Figure Patterns for Learning Microscopy Image Segmentation**  
 Shuhei Iijima, Takuji Ohashi, Yu-Chieh Lin, <ins>Youyang Ng</ins>  
-*International Conference on Machine Vision Applications (MVA), 2025*
+*International Conference on Machine Vision Applications (MVA), 2025 ([paper](https://ieeexplore.ieee.org/document/11175084))*
 
 1. **Optimal Design of Wet Etching Bath for 3D Flash Memories Using Multi-Objective Bayesian Optimization**  
 Miyuki Kouda, Yumi Mori, Tomohiko Sugita, <ins>Youyang Ng</ins>  
