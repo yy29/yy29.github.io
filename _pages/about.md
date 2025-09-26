@@ -89,7 +89,7 @@ Yasuto Hoshi, Daisuke Miyashita, <ins>Youyang Ng</ins>, Kento Tatsuno, Yasuhiro 
 
 **Revisiting Self-Generating Simple Figure Patterns for Learning Microscopy Image Segmentation**  
 Shuhei Iijima, Takuji Ohashi, Yu-Chieh Lin, <ins>Youyang Ng</ins>  
-*International Conference on Machine Vision Applications (MVA), 2025*
+*International Conference on Machine Vision Applications (MVA), 2025 ([paper](https://ieeexplore.ieee.org/document/11175084))*
 </div>
 </div>
 
