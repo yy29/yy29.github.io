@@ -74,7 +74,7 @@ Yasuto Hoshi, Daisuke Miyashita, <ins>Youyang Ng</ins>, Kento Tatsuno, Yasuhiro 
 </div>
 </div>
 
-<div class="paper-box"><div class="paper-box-image"><center><img src="../images/2023_simplyretrieve.png" alt="sym" width="50%"></center></div>
+<div class="paper-box"><div class="paper-box-image"><center><img src="../images/2023_simplyretrieve.png" alt="sym" width="40%"></center></div>
 <div class="paper-box-text" markdown="1">
 
 **SimplyRetrieve: A Private and Lightweight Retrieval-Centric Generative AI Tool**  
@@ -84,7 +84,7 @@ Yasuto Hoshi, Daisuke Miyashita, <ins>Youyang Ng</ins>, Kento Tatsuno, Yasuhiro 
 </div>
 
 ### Machine Learning with Synthetic Data Generation
-<div class="paper-box"><div class="paper-box-image"><center><img src="../images/2025_synthetic.png" alt="sym" width="70%"></center></div>
+<div class="paper-box"><div class="paper-box-image"><center><img src="../images/2025_synthetic.png" alt="sym" width="60%"></center></div>
 <div class="paper-box-text" markdown="1">
 
 **Revisiting Self-Generating Simple Figure Patterns for Learning Microscopy Image Segmentation**  
