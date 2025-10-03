@@ -17,7 +17,7 @@ Hi, I’m Youyang, a seasoned industry researcher in Computer Vision, Natural La
 
 # Selected Works
 
-### Aligning Human-AI Perception in Vision Foundation Models
+### Aligning Human-AI Perception in Vision Models
 <div class="paper-box"><div class="paper-box-image"><img src="../images/2025_phs.png" alt="sym" width="100%"></div>
 <div class="paper-box-text" markdown="1">
 
