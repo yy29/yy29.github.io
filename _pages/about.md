@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I’m Youyang, a seasoned industry researcher in Computer Vision, Natural Language Processing, Machine Learning, and Memory Systems. I lead a deep learning research team at Kioxia Corporation, Japan, where I explore the intersection of memory, intelligence, and perception in vision and language models. With over 14 years of R&D experience (Kioxia, Toshiba) and 40+ patents and publications (ECCV, EMNLP, ACCV, etc.), my work bridges academic insight and real-world impact. I have served as a reviewer for top conferences and received outstanding reviewer recognition (EMNLP). The tools I co-developed inspect and analyze millions of visual data daily in social infrastructure & semiconductor industries. I am a Senior Member of IEEE and hold a B.Eng from Universiti Malaya, Malaysia. I speak English, Japanese, Chinese, and Malay.
+Hi, I’m Youyang, a seasoned industry researcher in Computer Vision, Natural Language Processing, Machine Learning, and Memory Systems. I lead a deep learning research team at Kioxia Corporation, Japan, where I explore the intersection of memory, intelligence, and perception in vision and language models. With over 15 years of R&D experience (Kioxia, Toshiba) and 40+ patents and publications (ECCV, EMNLP, ACCV, etc.), my work bridges academic insight and real-world impact. I have served as a reviewer for top conferences and received outstanding reviewer recognition (EMNLP). The tools I co-developed inspect and analyze millions of visual data daily in social infrastructure & semiconductor industries. I am a Senior Member of IEEE and hold a B.Eng from Universiti Malaya, Malaysia. I speak English, Japanese, Chinese, and Malay.
 
 [Google Scholar](https://scholar.google.com/citations?user=4BGLw_QAAAAJ) &nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/youyang-ng-55a10ab9/) &nbsp;&nbsp; [Publications](publications.md) &nbsp;&nbsp; [Academic Service](#service) &nbsp;&nbsp; [Recognitions](#recognitions)
 
@@ -113,8 +113,8 @@ Shuhei Iijima, Takuji Ohashi, Yu-Chieh Lin, <ins>Youyang Ng</ins>
 # Recognitions
 * Outstanding Reviewer Recognition, Conference on Empirical Methods in Natural Language Processing (EMNLP), 2024
 * Best Paper Award, International Symposium on Semiconductor Manufacturing (ISSM), 2024
-* Kioxia Corporate-level Performance Award, Kioxia Corporation, 2023
-* Kioxia Corporate-level Performance Award, Kioxia Corporation, 2021
+* Kioxia Corporate-level Top Performance Award, Kioxia Corporation, 2023
+* Kioxia Corporate-level Top Performance Award, Kioxia Corporation, 2021
 * IEEE Senior Member Grade Elevation and IEEE Japan Medal, IEEE, 2020
 * Silver Medal, International Exposition of Research & Invention of Institutions of Higher Learning (PECIPTA), Ministry of Higher Education Malaysia, 2009
 * 2nd Runner Up, Schneider Electric University Challenge Malaysia, 2009
