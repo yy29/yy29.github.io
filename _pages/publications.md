@@ -13,6 +13,10 @@ author_profile: false
 
 1. **Image Processing Apparatus and Image Processing Method**  
 Bo Wang, <ins>Youyang Ng</ins>, Yu-Chieh Lin, Kengo Nakata, Takeshi Fujiwara  
+*JP7778607B2, 2025 ([patent](https://patents.google.com/patent/JP2023132818A/en))*
+
+1. **Image Processing Apparatus and Image Processing Method**  
+Bo Wang, <ins>Youyang Ng</ins>, Yu-Chieh Lin, Kengo Nakata, Takeshi Fujiwara  
 *US12430894B2, 2025 ([patent](https://patents.google.com/patent/US12430894B2/en))*
 
 1. **Information Processing Apparatus**  
