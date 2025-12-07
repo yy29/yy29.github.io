@@ -103,7 +103,7 @@ Shuhei Iijima, Osamu Yamane, <ins>Youyang Ng</ins>, Yu-Chieh Lin, Takuji Ohashi,
 Shuhei Iijima, Takuji Ohashi, Yu-Chieh Lin, <ins>Youyang Ng</ins>  
 *International Conference on Machine Vision Applications (MVA), 2025 ([paper](https://ieeexplore.ieee.org/document/11175084))*
 
-1. **Optimal Design of Wet Etching Bath for 3D Flash Memories Using Multi-Objective Bayesian Optimization**  
+1. **Optimal Design of Wet Etching Bath for 3-D Flash Memories Using Multi-Objective Bayesian Optimization**  
 Miyuki Kouda, Yumi Mori, Tomohiko Sugita, <ins>Youyang Ng</ins>  
 *IEEE Transactions on Semiconductor Manufacturing, 2025 (Extended version of our ISSM2024 paper) ([paper](https://ieeexplore.ieee.org/document/11002558))*
 
