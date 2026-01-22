@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I’m Youyang, a seasoned industry researcher in Computer Vision, Natural Language Processing, Machine Learning, and Memory Systems. I lead a deep learning research team at Kioxia Corporation, Japan, where I explore the intersection of memory, intelligence, and perception in vision and language models. With 15+ years of R&D experience (Kioxia, Toshiba), 40+ patents and publications (ECCV, EMNLP, ACCV, etc.), and 6+ years of AI research team leading experience, my work bridges academic insight and real-world impact. I have served as a reviewer for top conferences and received outstanding reviewer recognitions (EMNLP, BMVC). The tools I co-developed inspect and analyze millions of data daily in social infrastructure & semiconductor industries. I am a Senior Member of IEEE and hold a B.Eng from Universiti Malaya, Malaysia. I speak English, Chinese, Malay, and Japanese.
+Hi, I’m Youyang, an AI researcher in Computer Vision, Natural Language Processing, Machine Learning, and Memory Systems. I lead a deep learning research team at Kioxia Corporation, Japan, where I explore the intersection of memory, intelligence, and perception in vision and language models. With 15+ years of R&D experience (Kioxia, Toshiba), 40+ patents and publications (ECCV, EMNLP, ACCV, etc.), and 6+ years of AI research team leading experience, my work bridges academic insight and real-world impact. I have served as a reviewer for top conferences and received outstanding reviewer recognitions (EMNLP, BMVC). The tools I co-developed inspect and analyze millions of data daily in social infrastructure & semiconductor industries. I am a Senior Member of IEEE and hold a B.Eng from Universiti Malaya, Malaysia. I speak English, Chinese, Malay, and Japanese.
 
 [Google Scholar](https://scholar.google.com/citations?user=4BGLw_QAAAAJ) &nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/youyang-ng-55a10ab9/) &nbsp;&nbsp; [Publications](publications.md) &nbsp;&nbsp; [Academic Service](#service) &nbsp;&nbsp; [Recognitions](#recognitions)
 
@@ -128,7 +128,7 @@ Shuhei Iijima, Takuji Ohashi, Yu-Chieh Lin, <ins>Youyang Ng</ins>
 <a id="experiences"></a>
 
 # Work Experiences & Educations
-* Machine Learning Researcher & Team Leader, Kioxia Corporation, Japan, 2017-Current
+* AI Researcher & Team Leader, Kioxia Corporation, Japan, 2017-Current
 * Machine Vision Engineer & Memory System Researcher, Toshiba Corporation, Japan, 2010-2017
 * Degree of Bachelor of Engineering (Electrical), Universiti Malaya, Malaysia, 2006-2010
 
