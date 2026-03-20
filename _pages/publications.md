@@ -83,6 +83,10 @@ Yosuke Bando, Yujen Lai, <ins>Youyang Ng</ins>, Kenichi Maeda, Takeshi Sakoda, T
 <ins>Youyang Ng</ins>  
 *US9359165B2, 2016 ([patent](https://patents.google.com/patent/US9359165B2/en))*
 
+1. **Information Processing Apparatus, Information Processing Method and Storage Medium**  
+<ins>Youyang Ng</ins>, Yuji Nozawa, Shuhei Iijima, Kazumoto Nakamura, Yu-Chieh Lin  
+*US19/076011, 2025, patent application*
+
 1. **Information Processing Apparatus and Information Processing Method**  
 Yumi Mori, Miyuki Kouda, <ins>Youyang Ng</ins>, Takeshi Fujiwara, Atsushi Maesono  
 *US18/830793, 2024, patent application ([patent](https://patents.google.com/patent/US20250252709A1/en))*
