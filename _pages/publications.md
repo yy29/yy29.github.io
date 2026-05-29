@@ -103,6 +103,10 @@ Shuhei Iijima, Osamu Yamane, <ins>Youyang Ng</ins>, Yu-Chieh Lin, Takuji Ohashi,
 <a id="articles"></a>
 ## Research Article Publications
 
+1. **CIRCLED: A Multi-turn CIR Dataset with Consistent Dialogues across Domains**  
+Tomohisa Takeda, Yu-Chieh Lin, Yuji Nozawa, <ins>Youyang Ng</ins>, Osamu Torii, Yusuke Matsui  
+*arXiv, 2026 ([paper](https://arxiv.org/abs/2605.26734), [code](https://github.com/mti-lab/circled), [dataset](https://huggingface.co/datasets/tk1441/CIRCLED))*
+
 1. **Revisiting Self-Generating Simple Figure Patterns for Learning Microscopy Image Segmentation**  
 Shuhei Iijima, Takuji Ohashi, Yu-Chieh Lin, <ins>Youyang Ng</ins>  
 *International Conference on Machine Vision Applications (MVA), 2025 ([paper](https://ieeexplore.ieee.org/document/11175084))*
@@ -160,7 +164,7 @@ Yu-Jen Lai, <ins>Youyang Ng</ins>, Takeshi Sakoda, Yosuke Bando, Arata Miyamoto,
 ## Domestic Conference Proceedings
 
 1. **チャットベースマルチモーダル画像検索**  
-Ryoya Nara, Yu-Chieh Lin, Yuji Nozawa, <ins>Youyang Ng</ins>, Osamu Torii, Yusuke Matsui  
+Tomohisa Takeda, Yu-Chieh Lin, Yuji Nozawa, <ins>Youyang Ng</ins>, Osamu Torii, Yusuke Matsui  
 *28th Meeting on Image Recognition and Understanding (MIRU), 2025*
 
 1. **顕微鏡画像のセグメンテーションモデルに対する訓練データの自己生成における単純図形の再考**  
