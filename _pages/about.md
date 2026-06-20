@@ -12,7 +12,7 @@ Hi, I’m Youyang, an AI researcher in Computer Vision, Natural Language Process
 
 [Academic Service](#service) &nbsp;&nbsp; [Recognitions](#recognitions) &nbsp;&nbsp; [Publications](publications.md) &nbsp;&nbsp; [Google Scholar](https://scholar.google.com/citations?user=4BGLw_QAAAAJ) &nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/youyang-ng-55a10ab9/)
 
-# AI & Machine Learning Algorithm R&D Tips
+# Info Sharing
 * Tips: [Setup AI development & LLM training platform](https://github.com/yy29/aws-ec2-tips-llm-chat-ai)
 
 # Selected Works
