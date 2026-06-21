@@ -13,11 +13,12 @@ Hi, I’m Youyang, an AI researcher in Computer Vision, Natural Language Process
 [Academic Service](#service) &nbsp;&nbsp; [Recognitions](#recognitions) &nbsp;&nbsp; [Publications & Patents](publications.md) &nbsp;&nbsp; [Google Scholar](https://scholar.google.com/citations?user=4BGLw_QAAAAJ) &nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/youyang-ng-55a10ab9/)
 
 # Info Sharing
-* \[2025\]: 1 paper accepted at IEEE Transactions on Semiconductor Manufacturing, 1 paper at CVPR 2025 WS, 1 US patent granted
-* \[2024\]: 1 paper accepted at ACCV 2024, 2 papers at ECCV 2024 WS
+* \[2025\]: 1 paper accepted at IEEE Transactions on Semiconductor Manufacturing, 1 paper at CVPR 2025 WS, 1 US patent granted, outstanding reviewer recognition at BMVC 2025
+* \[2024\]: 1 paper accepted at ACCV 2024, 2 papers at ECCV 2024 WS, outstanding reviewer recognition at EMNLP 2024
 * \[2023\]: 1 paper accepted at EMNLP 2023 System Demo, 2 US patents granted
 * \[2022\]: 1 paper accepted at ECCV 2022 (Oral Acceptance!), 1 US patent granted
 * \[2021\]: 3 US patents granted
+* \[2020\]: Elevated to IEEE Senior Member Grade
 * Tips: [Setup AI development & LLM training platform](https://github.com/yy29/aws-ec2-tips-llm-chat-ai)
 
 # Selected Works
