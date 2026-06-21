@@ -16,7 +16,7 @@ Hi, I’m Youyang, an AI researcher in Computer Vision, Natural Language Process
 * \[ 2025 \]: 1 paper accepted at IEEE Transactions on Semiconductor Manufacturing, 1 paper at CVPR 2025 WS, 1 US patent granted
 * \[ 2024 \]: 1 paper accepted at ACCV 2024, 2 papers at ECCV 2024 WS
 * \[ 2023 \]: 1 paper accepted at EMNLP 2023 System Demo, 2 US patents granted
-* \[ 2022 \]: 1 paper accepted at ECCV 2022 (Oral Acceptance), 1 US patent granted
+* \[ 2022 \]: 1 paper accepted at ECCV 2022 (Oral Acceptance!), 1 US patent granted
 * \[ 2021 \]: 3 US patents granted
 * Tips: [Setup AI development & LLM training platform](https://github.com/yy29/aws-ec2-tips-llm-chat-ai)
 
