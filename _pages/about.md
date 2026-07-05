@@ -20,7 +20,7 @@ Hi, I’m Youyang, an AI researcher in Computer Vision, Natural Language Process
 * \[2021\]: 3 US patents granted
 * \[2020\]: Elevated to IEEE Senior Member Grade
 * Tips: [Setup AI development & LLM training platform](https://github.com/yy29/aws-ec2-tips-llm-chat-ai)
-* Reviewer duty: 70+ manuscripts to date
+* Reviewer duty: 70+ manuscripts to date  
 
 # Selected Works
 
