@@ -167,6 +167,14 @@ Yu-Jen Lai, <ins>Youyang Ng</ins>, Takeshi Sakoda, Yosuke Bando, Arata Miyamoto,
 <a id="domestic"></a>
 ## Domestic Conference Proceedings
 
+1. **CIRCLED: 一貫した対話と複数ドメインを備えたマルチターンCIRデータセット**  
+Tomohisa Takeda, Yu-Chieh Lin, Yuji Nozawa, <ins>Youyang Ng</ins>, Osamu Torii, Yusuke Matsui  
+*29th Meeting on Image Recognition and Understanding (MIRU), 2025*
+
+1. **Vision-Free CIR: 属性マッチングとLLMリランキングによるゼロショットな構成的画像検索**  
+Ryotaro Shimada, Yu-Chieh Lin, Yuji Nozawa, <ins>Youyang Ng</ins>, Osamu Torii, Yusuke Matsui  
+*29th Meeting on Image Recognition and Understanding (MIRU), 2025*
+
 1. **チャットベースマルチモーダル画像検索**  
 Tomohisa Takeda, Yu-Chieh Lin, Yuji Nozawa, <ins>Youyang Ng</ins>, Osamu Torii, Yusuke Matsui  
 *28th Meeting on Image Recognition and Understanding (MIRU), 2025*
