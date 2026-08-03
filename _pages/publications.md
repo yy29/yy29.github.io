@@ -105,7 +105,7 @@ Shuhei Iijima, Osamu Yamane, <ins>Youyang Ng</ins>, Yu-Chieh Lin, Takuji Ohashi,
 
 1. **Towards Vision-Free CIR: Attribute-Augmented Scoring and LLM-Based Reranking for Zero-Shot Composed Image Retrieval**  
 Ryotaro Shimada, Yu-Chieh Lin, Yuji Nozawa, <ins>Youyang Ng</ins>, Osamu Torii, Yusuke Matsui  
-*International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) Workshops, 2026 ([paper](https://arxiv.org/abs/2607.12621))*
+*International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) Workshops, 2026, **Best Paper Award** ([paper](https://arxiv.org/abs/2607.12621), [blog](https://mti-lab.github.io/blog/2026/07/26/sigir2026.html))*
 
 1. **CIRCLED: A Multi-turn CIR Dataset with Consistent Dialogues across Domains**  
 Tomohisa Takeda, Yu-Chieh Lin, Yuji Nozawa, <ins>Youyang Ng</ins>, Osamu Torii, Yusuke Matsui  
