@@ -103,13 +103,13 @@ Shuhei Iijima, Osamu Yamane, <ins>Youyang Ng</ins>, Yu-Chieh Lin, Takuji Ohashi,
 <a id="articles"></a>
 ## Research Article Publications
 
+1. **CIRCLED: A Multi-turn CIR Dataset with Consistent Dialogues across Domains**  
+Tomohisa Takeda, Yu-Chieh Lin, Yuji Nozawa, <ins>Youyang Ng</ins>, Osamu Torii, Yusuke Matsui  
+*Journal of Data-centric Machine Learning Research (DMLR), 2026 ([paper](https://arxiv.org/abs/2605.26734), [code](https://github.com/mti-lab/circled), [dataset](https://huggingface.co/datasets/tk1441/CIRCLED))*
+
 1. **Towards Vision-Free CIR: Attribute-Augmented Scoring and LLM-Based Reranking for Zero-Shot Composed Image Retrieval**  
 Ryotaro Shimada, Yu-Chieh Lin, Yuji Nozawa, <ins>Youyang Ng</ins>, Osamu Torii, Yusuke Matsui  
 *International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) Workshops, 2026, **Best Paper Award** ([paper](https://arxiv.org/abs/2607.12621), [blog](https://mti-lab.github.io/blog/2026/07/26/sigir2026.html))*
-
-1. **CIRCLED: A Multi-turn CIR Dataset with Consistent Dialogues across Domains**  
-Tomohisa Takeda, Yu-Chieh Lin, Yuji Nozawa, <ins>Youyang Ng</ins>, Osamu Torii, Yusuke Matsui  
-*arXiv, 2026 ([paper](https://arxiv.org/abs/2605.26734), [code](https://github.com/mti-lab/circled), [dataset](https://huggingface.co/datasets/tk1441/CIRCLED))*
 
 1. **Revisiting Self-Generating Simple Figure Patterns for Learning Microscopy Image Segmentation**  
 Shuhei Iijima, Takuji Ohashi, Yu-Chieh Lin, <ins>Youyang Ng</ins>  
