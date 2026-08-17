@@ -111,14 +111,11 @@ Shuhei Iijima, Takuji Ohashi, Yu-Chieh Lin, <ins>Youyang Ng</ins>
 * Reviewer, International Conference on Machine Learning (ICML) VecDB Workshop
 * Reviewer, IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
 * Reviewer, Association for Computational Linguistics Rolling Review (ACL ARR)
-* Reviewer, Annual Meeting of the Association for Computational Linguistics (ACL)
-* Reviewer, Conference on Empirical Methods in Natural Language Processing (EMNLP)
+* Reviewer, Annual Meeting of the Association for Computational Linguistics (ACL) Main Track & System Demo Track
+* Reviewer, Conference on Empirical Methods in Natural Language Processing (EMNLP) Main Track, System Demo Track, & Widening NLP Workshop
 * Reviewer, Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL)
-* Reviewer, Conference on Empirical Methods in Natural Language Processing (EMNLP) Widening NLP Workshop
-* Reviewer, Conference of the European Chapter of the Association for Computational Linguistics (EACL) System Demo
-* Reviewer, International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics (IJCNLP-AACL) System Demo
-* Reviewer, Conference on Empirical Methods in Natural Language Processing (EMNLP) System Demo
-* Reviewer, Annual Meeting of the Association for Computational Linguistics (ACL) System Demo
+* Reviewer, Conference of the European Chapter of the Association for Computational Linguistics (EACL) System Demo Track
+* Reviewer, International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics (IJCNLP-AACL) System Demo Track
 
 <a id="recognitions"></a>
 
