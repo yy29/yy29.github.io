@@ -115,7 +115,7 @@ Shuhei Iijima, Takuji Ohashi, Yu-Chieh Lin, <ins>Youyang Ng</ins>
 * Reviewer, Conference on Empirical Methods in Natural Language Processing (EMNLP) Main Track, System Demo Track, & Widening NLP Workshop
 * Reviewer, Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL)
 * Reviewer, Conference of the European Chapter of the Association for Computational Linguistics (EACL) System Demo Track
-* Reviewer, International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics (IJCNLP-AACL) System Demo Track
+* Reviewer, Asia-Pacific Chapter of the Association for Computational Linguistics & International Joint Conference on Natural Language Processing (AACL-IJCNLP) System Demo Track
 
 <a id="recognitions"></a>
 
