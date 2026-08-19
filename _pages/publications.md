@@ -105,7 +105,7 @@ Yu-Chieh Lin, Yuji Nozawa, <ins>Youyang Ng</ins>, Takeshi Fujiwara, Osamu Torii
 
 1. **CIRCLED: A Multi-turn CIR Dataset with Consistent Dialogues across Domains**  
 Tomohisa Takeda, Yu-Chieh Lin, Yuji Nozawa, <ins>Youyang Ng</ins>, Osamu Torii, Yusuke Matsui  
-*Journal of Data-centric Machine Learning Research (DMLR), 2026 ([paper](https://arxiv.org/abs/2605.26734), [code](https://github.com/mti-lab/circled), [dataset](https://huggingface.co/datasets/tk1441/CIRCLED))*
+*Journal of Data-centric Machine Learning Research (DMLR), 2026 ([paper](https://openreview.net/forum?id=xW9cXbbMJJ), [code](https://github.com/mti-lab/circled), [dataset](https://huggingface.co/datasets/tk1441/CIRCLED))*
 
 1. **Towards Vision-Free CIR: Attribute-Augmented Scoring and LLM-Based Reranking for Zero-Shot Composed Image Retrieval**  
 Ryotaro Shimada, Yu-Chieh Lin, Yuji Nozawa, <ins>Youyang Ng</ins>, Osamu Torii, Yusuke Matsui  
