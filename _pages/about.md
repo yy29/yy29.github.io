@@ -113,7 +113,7 @@ Shuhei Iijima, Takuji Ohashi, Yu-Chieh Lin, <ins>Youyang Ng</ins>
 * Reviewer, Association for Computational Linguistics Rolling Review (ACL ARR)
 * Reviewer, Annual Meeting of the Association for Computational Linguistics (ACL) Main Track & System Demo Track
 * Reviewer, Conference on Empirical Methods in Natural Language Processing (EMNLP) Main Track, System Demo Track, & Widening NLP Workshop
-* Reviewer, Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL)
+* Reviewer, Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL) Main Track & System Demo Track
 * Reviewer, Conference of the European Chapter of the Association for Computational Linguistics (EACL) System Demo Track
 * Reviewer, Asia-Pacific Chapter of the Association for Computational Linguistics & International Joint Conference on Natural Language Processing (AACL-IJCNLP) System Demo Track
 
