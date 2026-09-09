@@ -20,7 +20,7 @@ Hi, I’m Youyang, an AI researcher specializing in Computer Vision, Natural Lan
 * \[2022\]: 1 paper accepted at ECCV 2022 (Oral Acceptance!), 1 US patent granted
 * \[2021\]: 3 US patents granted
 * \[2020\]: Elevated to IEEE Senior Member Grade
-* Tips: [Setup AI development platform](AI-dev-tips-platform)
+* Tips: [Setup AI development platform](https://github.com/yy29/AI-dev-tips-platform)
 * Reviewer duty: 80+ manuscripts to date  
 
 # Selected Works
