@@ -29,7 +29,7 @@ Hi, I’m Youyang, an AI researcher specializing in Computer Vision, Natural Lan
 
 ### Aligning Human-AI Perception in Vision Models
 
-<div class="paper-box" style="margin: 0.1em;"><div class="paper-box-image"><center><img src="../images/2025_phs.png" alt="sym" width="70%"></center></div>
+<div class="paper-box"><div class="paper-box-image"><center><img src="../images/2025_phs.png" alt="sym" width="70%"></center></div>
 <div class="paper-box-text" markdown="1">
 
 **Prompt-Guided Attention Head Selection for Focus-Oriented Image Retrieval**  
