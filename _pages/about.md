@@ -14,6 +14,8 @@ Hi, I’m Youyang, an AI researcher specializing in Computer Vision, Natural Lan
 
 [Academic Service](#service) &nbsp;&nbsp; [Recognitions](#recognitions) &nbsp;&nbsp; [Publications & Patents](publications.md) &nbsp;&nbsp; [Google Scholar](https://scholar.google.com/citations?user=4BGLw_QAAAAJ) &nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/youyang-ng-55a10ab9/)
 
+<div style="line-height: 1.0; margin-bottom: 0px;">
+
 # Info Sharing
 * \[2026\]: 1 paper accepted at DMLR, 1 Best Paper Award at SIGIR 2026 Workshop
 * \[2025\]: 1 paper accepted at IEEE Transactions on Semiconductor Manufacturing, 1 paper at CVPR 2025 WS, 1 US patent granted, Outstanding Reviewer Recognition at BMVC 2025
@@ -23,7 +25,9 @@ Hi, I’m Youyang, an AI researcher specializing in Computer Vision, Natural Lan
 * \[2021\]: 3 US patents granted
 * \[2020\]: Elevated to IEEE Senior Member Grade
 * Tips: [Setup AI development platform](https://github.com/yy29/AI-dev-tips-platform)
-* Reviewer duty: 80+ manuscripts to date  
+* Reviewer duty: 80+ manuscripts to date
+
+</div>
 
 # Selected Works
 
