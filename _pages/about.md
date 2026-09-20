@@ -26,9 +26,7 @@ Hi, I’m Youyang, an AI researcher specializing in Computer Vision, Natural Lan
 * Reviewer duty: 80+ manuscripts to date  
 
 # Selected Works
-
 ### Aligning Human-AI Perception in Vision Models
-
 <div class="paper-box"><div class="paper-box-image"><center><img src="../images/2026_circled.jpg" alt="sym" width="100%"></center></div>
 <div class="paper-box-text" markdown="1">
 
