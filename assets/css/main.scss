@@ -41,9 +41,19 @@
 @import "print";
 
 ul li, ol li {
-  margin-top: 0.15rem;    /* Adjust this value lower or higher */
-  margin-bottom: 0.15rem; /* Adjust this value lower or higher */
+  margin-top: 0.25rem;    /* Adjust this value lower or higher */
+  margin-bottom: 0.25rem; /* Adjust this value lower or higher */
   padding-bottom: 0px;
+}
+
+body {
+  line-height: 1.3; /* Standard GitHub is usually 1.5 */
+}
+
+/* Reduces spacing between blocks/paragraphs */
+p {
+  margin-top: 0;
+  margin-bottom: 8px; /* Cuts default margin in half */
 }
 
 .paper-box {
