@@ -40,6 +40,12 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+ul li, ol li {
+  margin-top: 0.25rem;    /* Adjust this value lower or higher */
+  margin-bottom: 0.25rem; /* Adjust this value lower or higher */
+  padding-bottom: 0px;
+}
+
 .paper-box {
     display: flex;
     justify-content: left;
