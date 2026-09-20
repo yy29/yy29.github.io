@@ -102,12 +102,12 @@ Yasuto Hoshi, Daisuke Miyashita, <ins>Youyang Ng</ins>, Kento Tatsuno, Yasuhiro 
 </div>
 
 ### Machine Learning for Semiconductor Manufacturing
-<div class="paper-box"><div class="paper-box-image"><center><img src="../images/2025_cfd.png" alt="sym" width="70%"></center></div>
+<div class="paper-box"><div class="paper-box-image"><center><img src="../images/2025_cfd.png" alt="sym" width="60%"></center></div>
 <div class="paper-box-text" markdown="1">
 
 **Optimal Design of Wet Etching Bath for 3-D Flash Memories Using Multi-Objective Bayesian Optimization**  
 Miyuki Kouda, Yumi Mori, Tomohiko Sugita, <ins>Youyang Ng</ins>  
-*IEEE Transactions on Semiconductor Manufacturing, 2025 (Extended version of our ISSM2024 paper) ([paper](https://ieeexplore.ieee.org/document/11002558))*
+*IEEE Transactions on Semiconductor Manufacturing, 2025 ([paper](https://ieeexplore.ieee.org/document/11002558))*
 </div>
 </div>
 
