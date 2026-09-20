@@ -30,7 +30,6 @@ Hi, I’m Youyang, an AI researcher specializing in Computer Vision, Natural Lan
 ### Aligning Human-AI Perception in Vision Models
 <div class="paper-box"><div class="paper-box-image"><center><img src="../images/2025_phs.png" alt="sym" width="70%"></center></div>
 <div class="paper-box-text" markdown="1">
-
 **Prompt-Guided Attention Head Selection for Focus-Oriented Image Retrieval**  
 Yuji Nozawa, Yu-Chieh Lin, Kazumoto Nakamura, <ins>Youyang Ng</ins>  
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2025 ([paper](https://openaccess.thecvf.com/content/CVPR2025W/PixFoundation/html/Nozawa_Prompt-Guided_Attention_Head_Selection_for_Focus-Oriented_Image_Retrieval_CVPRW_2025_paper.html))*
@@ -39,7 +38,6 @@ Yuji Nozawa, Yu-Chieh Lin, Kazumoto Nakamura, <ins>Youyang Ng</ins>
 
 <div class="paper-box"><div class="paper-box-image"><center><img src="../images/2024_itae.png" alt="sym" width="70%"></center></div>
 <div class="paper-box-text" markdown="1">
-
 **Improving Image Clustering with Artifacts Attenuation via Inference-Time Attention Engineering**  
 Kazumoto Nakamura, Yuji Nozawa, Yu-Chieh Lin, Kengo Nakata, <ins>Youyang Ng</ins>  
 *Asian Conference on Computer Vision (ACCV), 2024 ([paper](https://openaccess.thecvf.com/content/ACCV2024/html/Nakamura_Improving_Image_Clustering_with_Artifacts_Attenuation_via_Inference-Time_Attention_Engineering_ACCV_2024_paper.html), [blog](https://www.kioxia.com/en-jp/rd/technology/topics/topics-84.html))*
