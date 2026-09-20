@@ -26,7 +26,7 @@ Hi, I’m Youyang, an AI researcher specializing in Computer Vision, Natural Lan
 # Selected Works
 
 ### Aligning Human-AI Perception in Vision Models
-<div class="paper-box"><div class="paper-box-image"><img src="../images/2025_phs.png" alt="sym" width="50%"></div>
+<div class="paper-box"><div class="paper-box-image"><center><img src="../images/2025_phs.png" alt="sym" width="70%"></div>
 <div class="paper-box-text" markdown="1">
 
 **Prompt-Guided Attention Head Selection for Focus-Oriented Image Retrieval**  
@@ -35,7 +35,7 @@ Yuji Nozawa, Yu-Chieh Lin, Kazumoto Nakamura, <ins>Youyang Ng</ins>
 </div>
 </div>
 
-<div class="paper-box"><div class="paper-box-image"><img src="../images/2024_itae.png" alt="sym" width="100%"></div>
+<div class="paper-box"><div class="paper-box-image"><center><img src="../images/2024_itae.png" alt="sym" width="70%"></div>
 <div class="paper-box-text" markdown="1">
 
 **Improving Image Clustering with Artifacts Attenuation via Inference-Time Attention Engineering**  
@@ -44,7 +44,7 @@ Kazumoto Nakamura, Yuji Nozawa, Yu-Chieh Lin, Kengo Nakata, <ins>Youyang Ng</ins
 </div>
 </div>
 
-<div class="paper-box"><div class="paper-box-image"><img src="../images/2024_feedback.png" alt="sym" width="100%"></div>
+<div class="paper-box"><div class="paper-box-image"><center><img src="../images/2024_feedback.png" alt="sym" width="70%"></div>
 <div class="paper-box-text" markdown="1">
 
 **Revisiting Relevance Feedback for CLIP-based Interactive Image Retrieval**  
@@ -54,7 +54,7 @@ Ryoya Nara, Yu-Chieh Lin, Yuji Nozawa, <ins>Youyang Ng</ins>, Goh Itoh, Osamu To
 </div>
 
 ### Scaling Vision Models with Separable, Explainable & Editable Knowledge
-<div class="paper-box"><div class="paper-box-image"><img src="../images/2022_knn.png" alt="sym" width="100%"></div>
+<div class="paper-box"><div class="paper-box-image"><center><img src="../images/2022_knn.png" alt="sym" width="70%"></div>
 <div class="paper-box-text" markdown="1">
 
 **Revisiting a kNN-based Image Classification System with High-capacity Storage**  
@@ -63,7 +63,7 @@ Kengo Nakata, <ins>Youyang Ng</ins>, Daisuke Miyashita, Asuka Maki, Yu-Chieh Lin
 </div>
 </div>
 
-<div class="paper-box"><div class="paper-box-image"><img src="../images/2024_sparse.png" alt="sym" width="100%"></div>
+<div class="paper-box"><div class="paper-box-image"><center><img src="../images/2024_sparse.png" alt="sym" width="70%"></div>
 <div class="paper-box-text" markdown="1">
 
 **Rethinking Sparse Lexical Representations for Image Retrieval in the Age of Rising Multi-Modal Large Language Models**  
@@ -73,7 +73,7 @@ Kengo Nakata, Daisuke Miyashita, <ins>Youyang Ng</ins>, Yasuto Hoshi, Jun Deguch
 </div>
 
 ### Empowering Language Models with Memory
-<div class="paper-box"><div class="paper-box-image"><img src="../images/2023_ralle.png" alt="sym" width="100%"></div>
+<div class="paper-box"><div class="paper-box-image"><center><img src="../images/2023_ralle.png" alt="sym" width="70%"></div>
 <div class="paper-box-text" markdown="1">
 
 **RaLLe: A Framework for Developing and Evaluating Retrieval-Augmented Large Language Models**  
@@ -92,7 +92,7 @@ Yasuto Hoshi, Daisuke Miyashita, <ins>Youyang Ng</ins>, Kento Tatsuno, Yasuhiro 
 </div>
 
 ### Machine Learning with Synthetic Data Generation
-<div class="paper-box"><div class="paper-box-image"><center><img src="../images/2025_synthetic.png" alt="sym" width="60%"></center></div>
+<div class="paper-box"><div class="paper-box-image"><center><img src="../images/2025_synthetic.png" alt="sym" width="40%"></center></div>
 <div class="paper-box-text" markdown="1">
 
 **Revisiting Self-Generating Simple Figure Patterns for Learning Microscopy Image Segmentation**  
