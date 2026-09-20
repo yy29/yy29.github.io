@@ -85,7 +85,7 @@ Kengo Nakata, Daisuke Miyashita, <ins>Youyang Ng</ins>, Yasuto Hoshi, Jun Deguch
 </div>
 
 ### Empowering Language Models with Memory
-<div class="paper-box"><div class="paper-box-image"><center><img src="../images/2023_ralle.png" alt="sym" width="70%"></center></div>
+<div class="paper-box"><div class="paper-box-image"><center><img src="../images/2023_ralle.png" alt="sym" width="100%"></center></div>
 <div class="paper-box-text" markdown="1">
 
 **RaLLe: A Framework for Developing and Evaluating Retrieval-Augmented Large Language Models**  
