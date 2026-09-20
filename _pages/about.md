@@ -29,6 +29,15 @@ Hi, I’m Youyang, an AI researcher specializing in Computer Vision, Natural Lan
 
 ### Aligning Human-AI Perception in Vision Models
 
+<div class="paper-box"><div class="paper-box-image"><center><img src="../images/2026_circled.jpg" alt="sym" width="100%"></center></div>
+<div class="paper-box-text" markdown="1">
+
+**CIRCLED: A Multi-turn CIR Dataset with Consistent Dialogues across Domains**  
+Tomohisa Takeda, Yu-Chieh Lin, Yuji Nozawa, <ins>Youyang Ng</ins>, Osamu Torii, Yusuke Matsui  
+*Journal of Data-centric Machine Learning Research (DMLR), 2026 ([paper](https://openreview.net/forum?id=xW9cXbbMJJ), [code](https://github.com/mti-lab/circled), [dataset](https://huggingface.co/datasets/tk1441/CIRCLED))*
+</div>
+</div>
+
 <div class="paper-box"><div class="paper-box-image"><center><img src="../images/2025_phs.png" alt="sym" width="70%"></center></div>
 <div class="paper-box-text" markdown="1">
 
