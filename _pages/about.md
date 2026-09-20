@@ -8,13 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-<div style="line-height: 1.2;">
+<div style="line-height: 1.3;">
 Hi, I’m Youyang, an AI researcher specializing in Computer Vision, Natural Language Processing, Machine Learning, and Memory System, where I explore the interplay between intelligence, perception, and memory in vision & language architectures. I lead a deep learning research team at Kioxia Corporation, Japan. With 16+ years of R&D experience (Kioxia, Toshiba), 40+ patents and publications (ECCV, EMNLP, ACCV, etc.), and 7+ years of AI research team leading experience, my work bridges fundamental insight in AI and its real-world impact. I have served as a reviewer for renowned conferences and received outstanding reviewer recognitions (EMNLP, BMVC). The tools I co-developed inspect and analyze millions of data daily in social infrastructure & semiconductor industries. I am a Senior Member of IEEE and hold a B.Eng from Universiti Malaya, Malaysia. I speak English, Chinese, Malay, and Japanese.
 </div>
 
 [Academic Service](#service) &nbsp;&nbsp; [Recognitions](#recognitions) &nbsp;&nbsp; [Publications & Patents](publications.md) &nbsp;&nbsp; [Google Scholar](https://scholar.google.com/citations?user=4BGLw_QAAAAJ) &nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/youyang-ng-55a10ab9/)
-
-<div style="line-height: 1.0; margin-bottom: 0px;">
 
 # Info Sharing
 * \[2026\]: 1 paper accepted at DMLR, 1 Best Paper Award at SIGIR 2026 Workshop
@@ -26,8 +24,6 @@ Hi, I’m Youyang, an AI researcher specializing in Computer Vision, Natural Lan
 * \[2020\]: Elevated to IEEE Senior Member Grade
 * Tips: [Setup AI development platform](https://github.com/yy29/AI-dev-tips-platform)
 * Reviewer duty: 80+ manuscripts to date
-
-</div>
 
 # Selected Works
 
