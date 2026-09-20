@@ -38,7 +38,7 @@ Tomohisa Takeda, Yu-Chieh Lin, Yuji Nozawa, <ins>Youyang Ng</ins>, Osamu Torii, 
 </div>
 </div>
 
-<div class="paper-box"><div class="paper-box-image"><center><img src="../images/2025_phs.png" alt="sym" width="70%"></center></div>
+<div class="paper-box"><div class="paper-box-image"><center><img src="../images/2025_phs.png" alt="sym" width="100%"></center></div>
 <div class="paper-box-text" markdown="1">
 
 **Prompt-Guided Attention Head Selection for Focus-Oriented Image Retrieval**  
@@ -47,7 +47,7 @@ Yuji Nozawa, Yu-Chieh Lin, Kazumoto Nakamura, <ins>Youyang Ng</ins>
 </div>
 </div>
 
-<div class="paper-box"><div class="paper-box-image"><center><img src="../images/2024_itae.png" alt="sym" width="70%"></center></div>
+<div class="paper-box"><div class="paper-box-image"><center><img src="../images/2024_itae.png" alt="sym" width="100%"></center></div>
 <div class="paper-box-text" markdown="1">
 
 **Improving Image Clustering with Artifacts Attenuation via Inference-Time Attention Engineering**  
@@ -56,7 +56,7 @@ Kazumoto Nakamura, Yuji Nozawa, Yu-Chieh Lin, Kengo Nakata, <ins>Youyang Ng</ins
 </div>
 </div>
 
-<div class="paper-box"><div class="paper-box-image"><center><img src="../images/2024_feedback.png" alt="sym" width="70%"></center></div>
+<div class="paper-box"><div class="paper-box-image"><center><img src="../images/2024_feedback.png" alt="sym" width="100%"></center></div>
 <div class="paper-box-text" markdown="1">
 
 **Revisiting Relevance Feedback for CLIP-based Interactive Image Retrieval**  
