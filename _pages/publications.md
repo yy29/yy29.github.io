@@ -96,7 +96,7 @@ Shuhei Iijima, Takuji Ohashi, Yu-Chieh Lin, <ins>Youyang Ng</ins>
 *International Conference on Machine Vision Applications (MVA), 2025 ([paper](https://ieeexplore.ieee.org/document/11175084))*
 1. **Optimal Design of Wet Etching Bath for 3-D Flash Memories Using Multi-Objective Bayesian Optimization**  
 Miyuki Kouda, Yumi Mori, Tomohiko Sugita, <ins>Youyang Ng</ins>  
-*IEEE Transactions on Semiconductor Manufacturing, 2025 (Extended version of our ISSM2024 paper) ([paper](https://ieeexplore.ieee.org/document/11002558))*
+*IEEE Transactions on Semiconductor Manufacturing, 2025 ([paper](https://ieeexplore.ieee.org/document/11002558))*
 1. **Prompt-Guided Attention Head Selection for Focus-Oriented Image Retrieval**  
 Yuji Nozawa, Yu-Chieh Lin, Kazumoto Nakamura, <ins>Youyang Ng</ins>  
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2025 ([paper](https://openaccess.thecvf.com/content/CVPR2025W/PixFoundation/html/Nozawa_Prompt-Guided_Attention_Head_Selection_for_Focus-Oriented_Image_Retrieval_CVPRW_2025_paper.html))*
