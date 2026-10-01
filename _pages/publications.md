@@ -11,6 +11,9 @@ author_profile: false
 <a id="patents"></a>
 ## Patents
 
+1. **Information Processing Apparatus and Information Processing Method**  
+Yumi Mori, Miyuki Kouda, <ins>Youyang Ng</ins>, Takeshi Fujiwara, Atsushi Maesono  
+*US12762833B2, 2026 ([patent](https://patents.google.com/patent/US20250252709A1/en))*
 1. **Semiconductor Image Processing Apparatus and Semiconductor Image Processing Method**  
 Shuhei Iijima, Osamu Yamane, <ins>Youyang Ng</ins>, Yu-Chieh Lin, Takuji Ohashi, Takeshi Fujiwara  
 *JP7908891B2, 2026 ([patent](https://patents.google.com/patent/JP2024131832A/en))*
@@ -74,9 +77,6 @@ Yumi Mori, Miyuki Kouda, <ins>Youyang Ng</ins>
 1. **Information Processing Apparatus, Information Processing Method and Storage Medium**  
 <ins>Youyang Ng</ins>, Yuji Nozawa, Shuhei Iijima, Kazumoto Nakamura, Yu-Chieh Lin  
 *US19/076011, 2025, patent application ([patent](https://patents.google.com/patent/US20260080307A1/en))*
-1. **Information Processing Apparatus and Information Processing Method**  
-Yumi Mori, Miyuki Kouda, <ins>Youyang Ng</ins>, Takeshi Fujiwara, Atsushi Maesono  
-*US18/830793, 2024, patent application ([patent](https://patents.google.com/patent/US20250252709A1/en))*
 1. **Information Processing Apparatus and Information Processing Method**  
 Yu-Chieh Lin, Yuji Nozawa, <ins>Youyang Ng</ins>, Takeshi Fujiwara, Osamu Torii  
 *US18/820977, 2024, patent application ([patent](https://patents.google.com/patent/US20250077572A1/en))*
