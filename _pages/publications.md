@@ -11,6 +11,9 @@ author_profile: false
 <a id="patents"></a>
 ## Patents
 
+1. **Semiconductor Image Processing Apparatus and Semiconductor Image Processing Method**  
+Shuhei Iijima, Osamu Yamane, <ins>Youyang Ng</ins>, Yu-Chieh Lin, Takuji Ohashi, Takeshi Fujiwara  
+*US12770242B2, 2026 ([patent](https://patents.google.com/patent/US20240311997A1/en))*
 1. **Information Processing Apparatus and Information Processing Method**  
 Yumi Mori, Miyuki Kouda, <ins>Youyang Ng</ins>, Takeshi Fujiwara, Atsushi Maesono  
 *US12762833B2, 2026 ([patent](https://patents.google.com/patent/US20250252709A1/en))*
