@@ -19,7 +19,7 @@ Yumi Mori, Miyuki Kouda, <ins>Youyang Ng</ins>, Takeshi Fujiwara, Atsushi Maeson
 *US12762833B2, 2026 ([patent](https://patents.google.com/patent/US20250252709A1/en))*
 1. **Semiconductor Image Processing Apparatus and Semiconductor Image Processing Method**  
 Shuhei Iijima, Osamu Yamane, <ins>Youyang Ng</ins>, Yu-Chieh Lin, Takuji Ohashi, Takeshi Fujiwara  
-*JP7908891B2, 2026 ([patent](https://patents.google.com/patent/JP2024131832A/en))*
+*JP7908891B2, 2026 ([patent](https://patents.google.com/patent/JP7908891B2/en))*
 1. **Image Processing Apparatus and Image Processing Method**  
 Bo Wang, <ins>Youyang Ng</ins>, Yu-Chieh Lin, Kengo Nakata, Takeshi Fujiwara  
 *JP7778607B2, 2025 ([patent](https://patents.google.com/patent/JP7778607B2/en))*
