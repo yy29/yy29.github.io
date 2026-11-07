@@ -127,8 +127,9 @@ Shuhei Iijima, Takuji Ohashi, Yu-Chieh Lin, <ins>Youyang Ng</ins>
 * Reviewer, British Machine Vision Conference (BMVC)
 * Reviewer, Annual Conference on Neural Information Processing Systems (NeurIPS)
 * Reviewer, IEEE/CVF International Conference on Computer Vision (ICCV)
-* Reviewer, International Conference on Machine Learning (ICML) VecDB Workshop
 * Reviewer, IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
+* Reviewer, International Conference on Machine Learning (ICML) VecDB Workshop
+* Reviewer, International Conference on Very Large Data Bases (VLDB) VecDB Workshop
 * Reviewer, Association for Computational Linguistics Rolling Review (ACL ARR)
 * Reviewer, Annual Meeting of the Association for Computational Linguistics (ACL) Main Track & System Demo Track
 * Reviewer, Conference on Empirical Methods in Natural Language Processing (EMNLP) Main Track, System Demo Track, & Widening NLP Workshop
