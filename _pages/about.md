@@ -27,7 +27,7 @@ Hi, I’m Youyang, an AI researcher specializing in Computer Vision, Natural Lan
 
 # Selected Works
 ### Aligning Human-AI Perception in Vision Models
-<div class="paper-box"><div class="paper-box-image"><center><img src="../images/2026_circled.jpg" alt="sym" width="100%"></center></div>
+<div class="paper-box"><div class="paper-box-image"><center><img src="../images/2026_refoco.png" alt="sym" width="100%"></center></div>
 <div class="paper-box-text" markdown="1">
 
 **Training Vision Transformers to Focus: Emergence of Spatial Attention Head Specialization**  
@@ -36,7 +36,7 @@ Yuji Nozawa, Yu-Chieh Lin, <ins>Youyang Ng</ins>
 </div>
 </div>
 
-<div class="paper-box"><div class="paper-box-image"><center><img src="../images/coming_soon.png" alt="sym" width="100%"></center></div>
+<div class="paper-box"><div class="paper-box-image"><center><img src="../images/2026_circled.jpg" alt="sym" width="100%"></center></div>
 <div class="paper-box-text" markdown="1">
 
 **CIRCLED: A Multi-turn CIR Dataset with Consistent Dialogues across Domains**  
