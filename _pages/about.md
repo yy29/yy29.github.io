@@ -15,7 +15,7 @@ Hi, I’m Youyang, an AI researcher specializing in Computer Vision, Natural Lan
 [Academic Service](#service) &nbsp;&nbsp; [Recognitions](#recognitions) &nbsp;&nbsp; [Publications & Patents](publications.md) &nbsp;&nbsp; [Google Scholar](https://scholar.google.com/citations?user=4BGLw_QAAAAJ) &nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/youyang-ng-55a10ab9/) &nbsp;&nbsp; [OpenReview](https://openreview.net/profile?id=%7EYouyang_Ng1)
 
 # Info Sharing
-* \[2026\]: 1 paper accepted at NeurIPS 2026! (more info soon), 1 paper at DMLR, 2 US patents granted, 1 Best Paper Award at SIGIR 2026 Workshop  
+* \[2026\]: 1 paper accepted at NeurIPS 2026!, 1 paper at DMLR, 2 US patents granted, 1 Best Paper Award at SIGIR 2026 Workshop  
 * \[2025\]: 1 paper accepted at IEEE Transactions on Semiconductor Manufacturing, 1 paper at CVPR 2025 Workshops, 1 US patent granted, Outstanding Reviewer Recognition at BMVC 2025  
 * \[2024\]: 1 paper accepted at ACCV 2024, 2 papers at ECCV 2024 Workshops, Outstanding Reviewer Recognition at EMNLP 2024  
 * \[2023\]: 1 paper accepted at EMNLP 2023 System Demo, 2 US patents granted  
@@ -28,6 +28,15 @@ Hi, I’m Youyang, an AI researcher specializing in Computer Vision, Natural Lan
 # Selected Works
 ### Aligning Human-AI Perception in Vision Models
 <div class="paper-box"><div class="paper-box-image"><center><img src="../images/2026_circled.jpg" alt="sym" width="100%"></center></div>
+<div class="paper-box-text" markdown="1">
+
+**Training Vision Transformers to Focus: Emergence of Spatial Attention Head Specialization**  
+Yuji Nozawa, Yu-Chieh Lin, <ins>Youyang Ng</ins>  
+*Annual Conference on Neural Information Processing Systems (NeurIPS), 2026 ([project page](https://yuji-nozawa.github.io/ReFoCo/), [paper](https://arxiv.org/abs/2611.11890), [code](https://github.com/yuji-nozawa/ReFoCo), [model](https://huggingface.co/yuji-nozawa/ReFoCo), [poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202026/155703.png))*
+</div>
+</div>
+
+<div class="paper-box"><div class="paper-box-image"><center><img src="../images/coming_soon.png" alt="sym" width="100%"></center></div>
 <div class="paper-box-text" markdown="1">
 
 **CIRCLED: A Multi-turn CIR Dataset with Consistent Dialogues across Domains**  
