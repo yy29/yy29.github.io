@@ -131,7 +131,7 @@ Shuhei Iijima, Takuji Ohashi, Yu-Chieh Lin, <ins>Youyang Ng</ins>
 
 <a id="service"></a>
 
-# Academic Service
+# Service to Scientific Community
 * IEEE Senior Member
 * Reviewer, British Machine Vision Conference (BMVC)
 * Reviewer, Annual Conference on Neural Information Processing Systems (NeurIPS)
