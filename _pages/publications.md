@@ -90,7 +90,7 @@ Yu-Chieh Lin, Yuji Nozawa, <ins>Youyang Ng</ins>, Takeshi Fujiwara, Osamu Torii
 
 1. **Training Vision Transformers to Focus: Emergence of Spatial Attention Head Specialization**  
 Yuji Nozawa, Yu-Chieh Lin, <ins>Youyang Ng</ins>  
-*Advances in Neural Information Processing Systems (NeurIPS), 2026 ([project page](https://yuji-nozawa.github.io/ReFoCo/), [paper](https://arxiv.org/abs/2611.11890), [code](https://github.com/yuji-nozawa/ReFoCo), [model](https://huggingface.co/yuji-nozawa/ReFoCo), [poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202026/155703.png), [virtual site](https://neurips.cc/virtual/2026/poster/155703))*
+*Advances in Neural Information Processing Systems (NeurIPS), 2026 ([project page](https://yuji-nozawa.github.io/ReFoCo/), [paper](https://arxiv.org/abs/2611.11890), [code](https://github.com/yuji-nozawa/ReFoCo), [model](https://huggingface.co/yuji-nozawa/ReFoCo), [poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202026/155703.png), [slides](https://neurips.cc/media/neurips-2026/Slides/155703.pdf), [virtual site](https://neurips.cc/virtual/2026/poster/155703))*
 1. **CIRCLED: A Multi-turn CIR Dataset with Consistent Dialogues across Domains**  
 Tomohisa Takeda, Yu-Chieh Lin, Yuji Nozawa, <ins>Youyang Ng</ins>, Osamu Torii, Yusuke Matsui  
 *Journal of Data-centric Machine Learning Research (DMLR), 2026 ([paper](https://openreview.net/forum?id=xW9cXbbMJJ), [code](https://github.com/mti-lab/circled), [dataset](https://huggingface.co/datasets/tk1441/CIRCLED))*
