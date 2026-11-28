@@ -32,7 +32,7 @@ Hi, I’m Youyang, an AI researcher specializing in Machine Learning, Computer V
 
 **Training Vision Transformers to Focus: Emergence of Spatial Attention Head Specialization**  
 Yuji Nozawa, Yu-Chieh Lin, <ins>Youyang Ng</ins>  
-*Advances in Neural Information Processing Systems (NeurIPS), 2026 ([project page](https://yuji-nozawa.github.io/ReFoCo/), [paper](https://arxiv.org/abs/2611.11890), [code](https://github.com/yuji-nozawa/ReFoCo), [model](https://huggingface.co/yuji-nozawa/ReFoCo), [poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202026/155703.png), [slides](https://neurips.cc/media/neurips-2026/Slides/155703.pdf), [virtual site](https://neurips.cc/virtual/2026/poster/155703))*
+*Advances in Neural Information Processing Systems (NeurIPS), 2026 ([project page](https://yuji-nozawa.github.io/ReFoCo/), [paper](https://arxiv.org/abs/2611.11890), [code](https://github.com/yuji-nozawa/ReFoCo), [model](https://huggingface.co/yuji-nozawa/ReFoCo), [poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202026/155703.png), [slides](https://neurips.cc/media/neurips-2026/Slides/155703.pdf), [virtual site](https://neurips.cc/virtual/2026/poster/155703), [blog](https://www.linkedin.com/posts/youyang-ng-55a10ab9_neurips-neurips2026-visionai-activity-7530784403858432000-ChZ3))*
 </div>
 </div>
 
